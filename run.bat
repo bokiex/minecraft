@@ -1,1 +1,1 @@
-java -Xmx3072M -Xms3072M -jar server.jar
+java -Xms3072M -Xmx5G -jar server.jar
