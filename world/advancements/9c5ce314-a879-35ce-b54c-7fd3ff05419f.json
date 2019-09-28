@@ -478,7 +478,8 @@
       "minecraft:witch": "2019-09-27 23:54:34 +0800",
       "minecraft:husk": "2019-09-26 00:23:09 +0800",
       "minecraft:zombie": "2019-09-25 00:00:47 +0800",
-      "minecraft:drowned": "2019-09-26 23:42:14 +0800"
+      "minecraft:drowned": "2019-09-26 23:42:14 +0800",
+      "minecraft:zombie_villager": "2019-09-29 01:01:17 +0800"
     },
     "done": false
   },
@@ -1014,6 +1015,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2019-09-29 01:11:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2019-09-24 23:32:23 +0800"
@@ -1377,11 +1384,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-09-25 00:04:28 +0800",
+      "cooked_mutton": "2019-09-29 01:45:57 +0800",
       "cooked_beef": "2019-09-24 23:33:18 +0800",
       "potato": "2019-09-26 00:24:44 +0800",
       "cooked_cod": "2019-09-26 00:16:47 +0800",
       "bread": "2019-09-27 23:22:46 +0800",
       "dried_kelp": "2019-09-27 22:06:28 +0800",
+      "melon_slice": "2019-09-29 02:13:40 +0800",
       "cooked_rabbit": "2019-09-27 22:37:00 +0800",
       "cooked_chicken": "2019-09-25 00:06:39 +0800",
       "cooked_salmon": "2019-09-26 00:58:24 +0800",
