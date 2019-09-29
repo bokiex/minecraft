@@ -1,159 +1,42 @@
-[00:06:59] [Server thread/INFO]: DragonD lost connection: Disconnected
-[00:06:59] [Server thread/INFO]: DragonD left the game
-[00:07:35] [Server thread/INFO]: DragonD[/25.45.9.49:51388] logged in with entity id 2982 at (63.50760702646451, 63.0, 353.5307287665105)
-[00:07:35] [Server thread/INFO]: DragonD joined the game
-[00:49:23] [Server thread/WARN]: DragonD was kicked for floating too long!
-[00:49:23] [Server thread/INFO]: DragonD lost connection: Flying is not enabled on this server
-[00:49:23] [Server thread/INFO]: DragonD left the game
-[00:49:23] [Server thread/WARN]: handleDisconnection() called twice
-[00:49:32] [Server thread/INFO]: DragonD[/25.45.9.49:51706] logged in with entity id 8896 at (65.02402255842169, 63.85000001788139, 356.2849276669077)
-[00:49:32] [Server thread/INFO]: DragonD joined the game
-[00:49:36] [Server thread/INFO]: john[/25.43.173.28:50236] logged in with entity id 8919 at (39.470954455075855, 67.0, 340.2306008099651)
-[00:49:36] [Server thread/INFO]: john joined the game
-[00:57:55] [Server thread/WARN]: Donkey moved wrongly!
-[01:02:11] [Server thread/INFO]: john was blown up by Creeper
-[01:05:52] [Server thread/WARN]: Boat moved wrongly!
-[01:11:23] [Server thread/INFO]: john has made the advancement [A Seedy Place]
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.7502999657098997,1.0,10.161114073509594
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.7819031044352158,1.0,10.528475906487017
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.8067192846660731,1.0,10.896360819784519
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.826096756197316,1.0,11.264599641857814
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.8406247631386634,1.0,11.633086048870496
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.8504536552964055,1.0,12.001743266885228
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.8537398603288864,1.0,12.370493047791939
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.8478710851480429,1.0,12.739203260591069
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.8349693389954922,2.0,13.107714711063124
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.8148593049599953,2.0,13.475888591911882
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.7880581251210685,2.0,13.843639293704598
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.7554517152013602,2.0,14.210939899160024
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.7176478186501498,2.0,14.577762675633238
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.6752844478082949,2.0,14.944107749234718
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.6286891277824225,2.0,15.309954313718208
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.577162269586097,2.0,15.675136942240613
-[01:32:24] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.5184262663153163,3.0,16.039183458713524
-[01:32:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
-[01:38:34] [Server thread/WARN]: john was kicked for floating too long!
-[01:38:34] [Server thread/INFO]: john lost connection: Flying is not enabled on this server
-[01:38:34] [Server thread/INFO]: john left the game
-[01:38:40] [Server thread/INFO]: john[/25.43.173.28:50458] logged in with entity id 24016 at (-92.41884003618085, 64.525, 88.7238704769871)
-[01:38:40] [Server thread/INFO]: john joined the game
-[01:39:28] [Server thread/INFO]: john was shot by Skeleton
-[01:41:11] [Server thread/INFO]: john was shot by Skeleton
-[01:42:26] [Server thread/WARN]: john moved too quickly! 5.279307825758806,1.5009966402674735,-8.686235767868979
-[01:44:54] [Server thread/INFO]: <john> e
-[01:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
-[01:58:16] [Server thread/WARN]: Horse moved wrongly!
-[02:02:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
-[02:32:30] [Server thread/INFO]: john fell from a high place
-[02:49:01] [Server thread/WARN]: Horse moved wrongly!
-[02:53:51] [Server thread/INFO]: <DragonD> captain of a sinking ship
-[02:53:59] [Server thread/INFO]: <DragonD> just waiting for the waves to take me
-[02:54:04] [Server thread/INFO]: <DragonD> cus i'm a shit captain
-[03:00:11] [Server thread/WARN]: Horse moved wrongly!
-[03:00:56] [Server thread/WARN]: Horse moved wrongly!
-[03:01:43] [Server thread/WARN]: Horse moved wrongly!
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 10.002782238884606,0.0,0.6794995588879829
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 10.369804643694579,0.0,0.699521033817291
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 10.73719309209173,0.0,0.7232767517355114
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 11.095797514880758,0.0,0.6698565609574416
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 11.449701780701446,0.0,0.5751410801575503
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 11.80109108623941,0.0,0.45832931300628843
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 12.151134686673004,0.0,0.3296942635807909
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 12.509438115369221,0.0,0.2739068392081663
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 12.872161213485526,0.0,0.25709872657637334
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 13.237249188589828,0.0,0.2611476664934571
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 13.603591236026034,0.0,0.2743378408257513
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 13.970581261510176,0.0,0.294880879442303
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 14.337844437979527,0.0,0.32025962748934944
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 14.705148790135922,0.0,0.34942156652004996
-[03:02:31] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 15.072447993760704,0.0,0.3809025304900615
-[03:02:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[03:03:27] [Server thread/WARN]: Horse moved wrongly!
-[03:03:27] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:28] [Server thread/WARN]: Horse moved wrongly!
-[03:03:29] [Server thread/WARN]: Horse moved wrongly!
-[03:03:29] [Server thread/WARN]: Horse moved wrongly!
-[03:04:11] [Server thread/INFO]: john lost connection: Disconnected
-[03:04:11] [Server thread/INFO]: john left the game
-[03:04:20] [Server thread/INFO]: john[/25.43.173.28:50596] logged in with entity id 46122 at (445.94646452956425, 75.0, 851.7882242431612)
-[03:04:20] [Server thread/INFO]: john joined the game
-[03:07:33] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.2714323276277355,2.0,-9.815118663057547
-[03:07:33] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.305406208860063,2.0,-10.182431551392483
-[03:07:33] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.3393800865341632,2.0,-10.549744440755603
-[03:07:33] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.373353962304293,3.0,-10.917057330668854
-[03:07:33] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.407327837055675,3.0,-11.28437022087644
-[03:07:33] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -0.4587732235796125,5.0,-9.151848413751623
-[03:07:33] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.4413017112619286,3.0,-11.651683111241596
-[03:07:33] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -0.3283394039096379,6.0,-9.878796460372087
-[03:07:33] [Server thread/WARN]: Donkey (vehicle of john) moved too quickly! 1.4752755851765187,3.0,-12.018996001690994
-[03:07:33] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -0.257805438158357,6.0,-10.040270670208884
-[03:07:33] [Server thread/WARN]: Horse moved wrongly!
-[03:15:38] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:39] [Server thread/WARN]: Horse moved wrongly!
-[03:15:40] [Server thread/WARN]: Horse moved wrongly!
-[03:15:40] [Server thread/WARN]: Horse moved wrongly!
-[03:15:57] [Server thread/WARN]: Horse moved wrongly!
-[03:16:13] [Server thread/INFO]: john lost connection: Disconnected
-[03:16:13] [Server thread/INFO]: john left the game
-[03:16:15] [Server thread/INFO]: DragonD lost connection: Disconnected
-[03:16:15] [Server thread/INFO]: DragonD left the game
-[03:16:19] [Server thread/INFO]: john[/25.43.173.28:50620] logged in with entity id 49036 at (42.48002364614389, 73.0, 374.72914226161913)
-[03:16:19] [Server thread/INFO]: john joined the game
-[03:16:22] [Server thread/INFO]: DragonD[/25.45.9.49:52825] logged in with entity id 49042 at (67.26370447401035, 83.0, 382.610528838197)
-[03:16:22] [Server thread/INFO]: DragonD joined the game
-[03:21:31] [Server thread/INFO]: john was slain by DragonD
-[03:24:24] [Server thread/WARN]: john was kicked for floating too long!
-[03:24:25] [Server thread/INFO]: john lost connection: Flying is not enabled on this server
-[03:24:25] [Server thread/INFO]: john left the game
-[03:24:39] [Server thread/INFO]: DragonD lost connection: Disconnected
-[03:24:39] [Server thread/INFO]: DragonD left the game
-[03:29:00] [Server thread/INFO]: Stopping the server
-[03:29:00] [Server thread/INFO]: Stopping server
-[03:29:00] [Server thread/INFO]: Saving players
-[03:29:00] [Server thread/INFO]: Saving worlds
-[03:29:00] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[03:29:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:29:00] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[03:29:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:29:00] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[03:29:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:29:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:29:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:29:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:03:46] [Server thread/INFO]: DragonD lost connection: Disconnected
+[00:03:46] [Server thread/INFO]: DragonD left the game
+[00:14:26] [Server thread/INFO]: DragonD[/25.45.9.49:51715] logged in with entity id 6258 at (29.275919485128686, 26.0, 371.80373684424006)
+[00:14:26] [Server thread/INFO]: DragonD joined the game
+[00:22:52] [Server thread/INFO]: DragonD burned to death
+[00:29:55] [Server thread/INFO]: john was blown up by Creeper
+[00:33:39] [Server thread/INFO]: john was blown up by Creeper
+[00:55:14] [Server thread/INFO]: DragonD was blown up by Creeper
+[00:57:44] [Server thread/INFO]: DragonD was shot by Skeleton
+[00:57:45] [Server thread/INFO]: john has made the advancement [Hot Stuff]
+[00:58:56] [Server thread/INFO]: DragonD was shot by Skeleton
+[01:00:23] [Server thread/INFO]: DragonD was shot by Skeleton
+[01:02:38] [Server thread/INFO]: john was blown up by Creeper
+[01:07:37] [Server thread/INFO]: DragonD was blown up by Creeper
+[01:34:13] [Server thread/INFO]: * john setspawnpoint
+[02:00:32] [Server thread/INFO]: DragonD lost connection: Disconnected
+[02:00:32] [Server thread/INFO]: DragonD left the game
+[02:00:48] [Server thread/INFO]: john was shot by Skeleton
+[02:01:10] [Server thread/INFO]: DragonD[/25.45.9.49:53001] logged in with entity id 27845 at (68.99533511473541, 84.0, 363.69864226146416)
+[02:01:10] [Server thread/INFO]: DragonD joined the game
+[02:21:01] [Server thread/INFO]: DragonD has made the advancement [We Need to Go Deeper]
+[02:21:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5468ms or 109 ticks behind
+[02:22:31] [Server thread/INFO]: john lost connection: Disconnected
+[02:22:31] [Server thread/INFO]: john left the game
+[02:41:39] [Server thread/INFO]: DragonD fell from a high place
+[02:56:44] [Server thread/WARN]: Boat moved wrongly!
+[02:56:44] [Server thread/WARN]: Boat moved wrongly!
+[03:23:01] [Server thread/INFO]: DragonD lost connection: Disconnected
+[03:23:01] [Server thread/INFO]: DragonD left the game
+[03:23:47] [Server thread/INFO]: Stopping the server
+[03:23:47] [Server thread/INFO]: Stopping server
+[03:23:47] [Server thread/INFO]: Saving players
+[03:23:47] [Server thread/INFO]: Saving worlds
+[03:23:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[03:23:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:23:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[03:23:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:23:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[03:23:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:23:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:23:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:23:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
