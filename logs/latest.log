@@ -1,42 +1,120 @@
-[00:03:46] [Server thread/INFO]: DragonD lost connection: Disconnected
-[00:03:46] [Server thread/INFO]: DragonD left the game
-[00:14:26] [Server thread/INFO]: DragonD[/25.45.9.49:51715] logged in with entity id 6258 at (29.275919485128686, 26.0, 371.80373684424006)
-[00:14:26] [Server thread/INFO]: DragonD joined the game
-[00:22:52] [Server thread/INFO]: DragonD burned to death
-[00:29:55] [Server thread/INFO]: john was blown up by Creeper
-[00:33:39] [Server thread/INFO]: john was blown up by Creeper
-[00:55:14] [Server thread/INFO]: DragonD was blown up by Creeper
-[00:57:44] [Server thread/INFO]: DragonD was shot by Skeleton
-[00:57:45] [Server thread/INFO]: john has made the advancement [Hot Stuff]
-[00:58:56] [Server thread/INFO]: DragonD was shot by Skeleton
-[01:00:23] [Server thread/INFO]: DragonD was shot by Skeleton
-[01:02:38] [Server thread/INFO]: john was blown up by Creeper
-[01:07:37] [Server thread/INFO]: DragonD was blown up by Creeper
-[01:34:13] [Server thread/INFO]: * john setspawnpoint
-[02:00:32] [Server thread/INFO]: DragonD lost connection: Disconnected
-[02:00:32] [Server thread/INFO]: DragonD left the game
-[02:00:48] [Server thread/INFO]: john was shot by Skeleton
-[02:01:10] [Server thread/INFO]: DragonD[/25.45.9.49:53001] logged in with entity id 27845 at (68.99533511473541, 84.0, 363.69864226146416)
-[02:01:10] [Server thread/INFO]: DragonD joined the game
-[02:21:01] [Server thread/INFO]: DragonD has made the advancement [We Need to Go Deeper]
-[02:21:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5468ms or 109 ticks behind
-[02:22:31] [Server thread/INFO]: john lost connection: Disconnected
-[02:22:31] [Server thread/INFO]: john left the game
-[02:41:39] [Server thread/INFO]: DragonD fell from a high place
-[02:56:44] [Server thread/WARN]: Boat moved wrongly!
-[02:56:44] [Server thread/WARN]: Boat moved wrongly!
-[03:23:01] [Server thread/INFO]: DragonD lost connection: Disconnected
-[03:23:01] [Server thread/INFO]: DragonD left the game
-[03:23:47] [Server thread/INFO]: Stopping the server
-[03:23:47] [Server thread/INFO]: Stopping server
-[03:23:47] [Server thread/INFO]: Saving players
-[03:23:47] [Server thread/INFO]: Saving worlds
-[03:23:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[03:23:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:23:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[03:23:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:23:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[03:23:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:23:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:23:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:23:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:04:31] [Server thread/WARN]: DragonD moved too quickly! 1.3094391107289596,-10.038049907596005,-1.6801346040468275
+[00:06:26] [Server thread/INFO]: CbKnn has made the advancement [Not Today, Thank You]
+[00:29:27] [Server thread/INFO]: CbKnn has made the advancement [Hot Stuff]
+[00:30:42] [Server thread/INFO]: dairelle was shot by Skeleton
+[00:38:23] [Server thread/WARN]: Fetching packet for removed entity atx['Sugar Cane'/47952, l='world', x=85.78, y=62.96, z=342.83]
+[00:43:17] [Server thread/INFO]: DragonD has made the advancement [Voluntary Exile]
+[00:46:17] [Server thread/INFO]: CbKnn was shot by Skeleton
+[00:54:31] [Server thread/INFO]: john has made the advancement [Fishy Business]
+[00:59:57] [Server thread/INFO]: CbKnn lost connection: Disconnected
+[00:59:57] [Server thread/INFO]: CbKnn left the game
+[01:01:29] [Server thread/WARN]: Fetching packet for removed entity atx['Cobblestone'/53702, l='world', x=56.13, y=62.06, z=376.88]
+[01:17:40] [Server thread/INFO]: john lost connection: Disconnected
+[01:17:40] [Server thread/INFO]: john left the game
+[01:43:11] [Server thread/INFO]: dairelle fell from a high place
+[01:49:30] [Server thread/INFO]: <DragonD> make bed!
+[01:50:48] [Server thread/WARN]: DragonD was kicked for floating too long!
+[01:50:48] [Server thread/INFO]: DragonD lost connection: Disconnected
+[01:50:48] [Server thread/INFO]: DragonD left the game
+[01:50:48] [Server thread/WARN]: handleDisconnection() called twice
+[01:50:55] [Server thread/INFO]: DragonD[/25.45.9.49:56851] logged in with entity id 65096 at (43.921902181130896, 73.8500000178814, 385.79181651155176)
+[01:50:55] [Server thread/INFO]: DragonD joined the game
+[02:19:26] [Server thread/INFO]: DragonD has made the advancement [Ice Bucket Challenge]
+[02:34:23] [Server thread/INFO]: dairelle has made the advancement [A Seedy Place]
+[02:46:10] [Server thread/INFO]: dairelle has made the advancement [Best Friends Forever]
+[02:48:55] [Server thread/WARN]: Horse moved wrongly!
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 3.3769100407276937,0.2274534586630068,9.449266979867389
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 3.559695974795602,1.2274534586630068,9.966994082987185
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 3.7424820558740635,1.2274534586630068,10.484721782111933
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 3.925268215614949,1.2274534586630068,11.00244980014702
+[02:49:32] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 5.977225238828595,-0.2274534586630068,8.288994861006358
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 4.1079159392501765,1.2274534586630068,11.520226828577506
+[02:49:32] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 6.1403257904109125,-0.4489423104376016,8.521224923658963
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 4.290235644592997,2.227453458663007,12.038119423246826
+[02:49:32] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 6.299197810940683,-0.7384922093173572,8.747434277134289
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 4.471871664627599,2.227453458663007,12.556251732224894
+[02:49:32] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 6.4542988273691435,-1.0,8.968274362010561
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 4.652517675593515,3.227453458663007,13.074729149966743
+[02:49:32] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 6.726807364271849,-1.0,9.356285334697304
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 4.831615575132162,3.227453458663007,13.59374114025178
+[02:49:32] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 7.00681069559991,-1.0,9.75496804939587
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 5.008494053012043,3.227453458663007,14.113509385397549
+[02:49:32] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 7.290824341994892,-1.0768320014953616,10.159361000473382
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 5.182767970756117,4.227453458663007,14.634152138035233
+[02:49:32] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 7.456213325996373,-1.2274534586630068,10.394850183502399
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 5.354880535681559,4.227453458663007,15.155513532927216
+[02:49:32] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 7.6171261706163875,-1.4489423104376016,10.623966020613125
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 5.525464097990778,4.227453458663007,15.625621517593402
+[02:49:32] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 7.773946250343187,-1.7384922093173572,10.847468610424471
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 5.5775323796522684,4.227453458663007,15.625621517593402
+[02:49:32] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 7.926096588848253,-2.093407939109099,11.066634794926813
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 5.566852200889855,4.227453458663007,15.625621517593402
+[02:49:32] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 8.073770794738948,-2.5111010141305457,11.28212355948017
+[02:49:32] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! 5.5238318925866,4.227453458663007,15.625621517593402
+[02:49:32] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 8.217453185449102,-2.989085452684037,11.494332800828374
+[02:52:07] [Server thread/WARN]: Horse moved wrongly!
+[02:53:08] [Server thread/WARN]: Horse moved wrongly!
+[02:54:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2300ms or 46 ticks behind
+[02:59:09] [Server thread/INFO]: DragonD was shot by Skeleton
+[02:59:14] [Server thread/INFO]: dairelle fell from a high place
+[03:04:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2732ms or 54 ticks behind
+[03:04:35] [Server thread/INFO]: dairelle was slain by Zombie
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -9.129741170139255,0.0,-5.038213284517951
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -9.608876003427099,0.0,-5.306318074148749
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -10.087797669196675,0.0,-5.574805749243751
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -10.565213249032581,0.0,-5.845944325907567
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -11.034061098400002,0.0,-6.131107518768431
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -11.487351800688998,0.0,-6.439210024449039
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -11.928486773610416,0.0,-6.764450577695925
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -12.363286495381658,0.0,-7.098651834438897
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -12.794696350573759,0.0,-7.437647784965293
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -13.224292355746002,0.0,-7.779209280539362
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -13.652917805936909,0.0,-8.122143548117037
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -14.08102393150807,0.0,-8.46581235862368
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -14.50885217682935,0.0,-8.809874208406427
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -14.936531733969332,0.0,-9.154146365669476
+[03:09:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -15.36413173102801,0.0,-9.498531054272007
+[03:13:55] [Server thread/INFO]: DragonD lost connection: Disconnected
+[03:13:55] [Server thread/INFO]: DragonD left the game
+[03:14:03] [Server thread/INFO]: DragonD[/25.45.9.49:57328] logged in with entity id 91589 at (172.5637477414869, 65.0, 331.1012984979467)
+[03:14:03] [Server thread/INFO]: DragonD joined the game
+[03:14:34] [Server thread/WARN]: Horse moved wrongly!
+[03:14:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -3.2343333124760534,0.7725465413369932,9.534204345690966
+[03:14:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -3.247508890354652,0.5510576895623984,9.840051249580142
+[03:14:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -3.2604111604299533,0.26150779068264285,10.138305833499032
+[03:14:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -3.2728936422123525,0.0,10.429796932015904
+[03:14:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -3.289091110292304,0.0,10.944961696784901
+[03:14:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -3.292496717400354,0.0,11.475824628796602
+[03:14:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -3.27340111387025,0.0,12.014424987903624
+[03:14:37] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 3.657761356805736,0.09340793910909895,9.548963842747924
+[03:14:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -3.22766627502034,0.0,12.555396167235244
+[03:14:37] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 3.7277586229467943,1.093407939109099,10.044807216335528
+[03:14:37] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 3.791171092602781,1.093407939109099,10.542166254236804
+[03:14:37] [Server thread/WARN]: Horse (vehicle of DragonD) moved too quickly! -3.148364925490853,0.0,13.094158945600782
+[03:16:24] [Server thread/WARN]: Horse moved wrongly!
+[03:19:37] [Server thread/WARN]: DragonD moved too quickly! -9.91216951679121,1.1754232959520934,-1.0484367491344528
+[03:19:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[03:23:26] [Server thread/WARN]: DragonD was kicked for floating too long!
+[03:23:26] [Server thread/INFO]: DragonD lost connection: Flying is not enabled on this server
+[03:23:26] [Server thread/INFO]: DragonD left the game
+[03:23:33] [Server thread/INFO]: DragonD[/25.45.9.49:57387] logged in with entity id 94757 at (721.8652532708569, 72.525, 1090.7539982670974)
+[03:23:33] [Server thread/INFO]: DragonD joined the game
+[04:49:13] [Server thread/WARN]: Horse moved wrongly!
+[05:22:47] [Server thread/INFO]: dairelle tried to swim in lava
+[05:30:00] [Server thread/INFO]: dairelle lost connection: Disconnected
+[05:30:00] [Server thread/INFO]: dairelle left the game
+[05:30:07] [Server thread/INFO]: DragonD lost connection: Disconnected
+[05:30:07] [Server thread/INFO]: DragonD left the game
+[05:31:26] [Server thread/INFO]: Stopping the server
+[05:31:26] [Server thread/INFO]: Stopping server
+[05:31:26] [Server thread/INFO]: Saving players
+[05:31:26] [Server thread/INFO]: Saving worlds
+[05:31:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[05:31:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:31:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[05:31:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:31:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[05:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
