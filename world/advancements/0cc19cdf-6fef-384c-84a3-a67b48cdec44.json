@@ -895,9 +895,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2019-10-04 02:00:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2019-09-25 23:09:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2019-10-04 01:58:45 +0800"
     },
     "done": true
   },
@@ -958,6 +970,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-09-24 23:42:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2019-10-04 02:00:30 +0800"
     },
     "done": true
   },
@@ -1195,6 +1213,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-09-24 23:33:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2019-10-04 02:00:30 +0800"
     },
     "done": true
   },
@@ -1932,7 +1956,8 @@
       "minecraft:turtle": "2019-09-28 00:57:32 +0800",
       "minecraft:sheep": "2019-10-02 23:33:06 +0800",
       "minecraft:cow": "2019-10-02 15:08:01 +0800",
-      "minecraft:chicken": "2019-10-01 18:53:05 +0800"
+      "minecraft:chicken": "2019-10-01 18:53:05 +0800",
+      "minecraft:horse": "2019-10-03 14:53:40 +0800"
     },
     "done": false
   },
@@ -2626,6 +2651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2019-10-04 01:58:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-09-26 00:36:55 +0800"
@@ -2817,6 +2848,12 @@
       "has_stone": "2019-09-30 03:20:31 +0800"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/ragdoll.png": "2019-10-04 03:10:39 +0800"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {

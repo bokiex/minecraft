@@ -1,165 +1,151 @@
-[00:12:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
-[00:14:05] [Server thread/INFO]: CbKnn was shot by Skeleton
-[00:17:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[00:22:31] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! -9.351676720740443,0.0,-4.550251006604867
-[00:22:31] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! -9.708444079506535,0.0,-4.730702208990124
-[00:22:31] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! -10.062310792588278,0.0,-4.916037029526478
-[00:22:31] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! -10.412279803297793,0.0,-5.107505026849594
-[00:22:31] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! -10.757505162194775,0.0,-5.305993765343146
-[00:22:31] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! -11.097288686413776,0.0,-5.512098368958505
-[00:22:31] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! -11.431070042643796,0.0,-5.7261815361634945
-[00:22:31] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! -11.758420746163779,0.0,-5.9484170424873355
-[00:22:31] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! -12.079026537297182,0.0,-6.178834769455534
-[00:22:31] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! -12.392676744941014,0.0,-6.417351347435442
-[00:22:55] [Server thread/INFO]: CbKnn was blown up by Creeper
-[00:23:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/191348, l='world', x=64.73, y=67.00, z=326.83]
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 9.667160150950394,0.0,3.834833499994602
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 10.038973988563953,0.0,3.9823271338008226
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 10.410787825863508,0.0,4.129820768431273
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 10.782601662880438,0.0,4.27731440380353
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 11.154415499642937,0.0,4.4248080398434695
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 11.526229336176584,0.0,4.572301676484244
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 11.898043172504117,0.0,4.719795313665827
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 12.269857008646227,0.0,4.867288951334103
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 12.641670844621444,0.0,5.014782589440415
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 13.013484680446481,0.0,5.162276227940879
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 13.385298516136345,0.0,5.3097698667961595
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 13.757112351704563,0.0,5.457263505970786
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 14.128926187163188,0.0,5.604757145432814
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 14.50074002252336,0.0,5.752250785153478
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 14.872553857794742,0.0,5.899744425106974
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 15.244367692986316,0.0,6.047238065269994
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 15.61618152810604,0.0,6.194731705621507
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 15.98799536316119,0.0,6.3422253461427545
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 16.359809198158132,0.0,6.489718986816683
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 16.731623033102665,0.0,6.63721262762806
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 17.103436868000017,0.0,6.784706268563241
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 17.475250702854964,0.0,6.9321999096097215
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 17.847064537671713,0.0,7.07969355075636
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 18.218878372454128,0.0,7.227187191993266
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 18.59069220720562,0.0,7.374680833311345
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 18.96250604192926,0.0,7.52217447470241
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 19.334319876627887,0.0,7.6696681161593006
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 19.706133711304005,0.0,7.817161757675308
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 20.077947545959773,0.0,7.964655399244634
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 20.44976138059735,0.0,8.112149040861823
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 20.821575215218445,0.0,8.259642682522212
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 21.19338904982476,0.0,8.40713632422137
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 21.565202884417772,0.0,8.554629965955428
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 21.937016718998734,0.0,8.702123607720978
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 22.30883055356901,0.0,8.849617249514836
-[00:27:32] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 22.680644388129508,0.0,8.99711089133416
-[00:27:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3010ms or 60 ticks behind
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 6.8545358256499185,0.0,-7.81660412226438
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 7.118247828248855,0.0,-8.117329419941257
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 7.381961494730888,0.0,-8.418056615035539
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 7.645676658707657,0.0,-8.718785517805372
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 7.90939317042961,0.0,-9.019515957483236
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 8.17311089512225,0.0,-9.320247780378168
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 8.436829711488429,0.0,-9.620980848168529
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 8.700549510360815,0.0,-9.92171503636473
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 8.964270193488744,0.0,-10.222450232926121
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 9.227991672446649,0.0,-10.523186337016227
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 9.49171386765147,0.0,-10.823923257882143
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 9.755436707478566,0.0,-11.124660913846242
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 10.019160127465625,0.0,-11.425399231398615
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 10.282884069596662,0.0,-11.72613814438057
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 10.546608481657302,0.0,-12.026877593248969
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 10.810333316654521,0.0,-12.327617524415245
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 11.074058532294714,0.0,-12.628357889649692
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 11.337784090513537,0.0,-12.92909864554531
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 11.60150995705311,0.0,-13.229839753036117
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 11.865236101081337,0.0,-13.530581176962528
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 12.128962494849418,0.0,-13.831322885680947
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 12.392689113383312,0.0,-14.13206485071214
-[00:32:35] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 6.854552492633047,0.0,-7.816623128541778
-[00:32:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
-[00:32:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/197749, l='world', x=67.85, y=67.00, z=327.34]
-[00:37:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
-[00:42:38] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 5.3458118358831825,0.0,8.920375589561218
-[00:42:38] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 5.550818188847927,0.0,9.263820536871037
-[00:42:38] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 5.754125633617264,0.0,9.60822491294482
-[00:42:38] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 5.9542114660908965,0.0,9.9543434933517
-[00:42:38] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 6.149198353295276,0.0,10.302966191130793
-[00:42:38] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 6.336909279547683,0.0,10.654812242846333
-[00:42:38] [Server thread/WARN]: Boat (vehicle of DragonD) moved too quickly! 6.515598072338605,0.0,11.010266529588705
-[01:02:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/208305, l='world', x=65.60, y=67.00, z=327.13]
-[01:14:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/210392, l='world', x=67.57, y=67.00, z=328.67]
-[01:14:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/210392, l='world', x=67.57, y=67.00, z=328.67]
-[01:16:54] [Server thread/INFO]: CbKnn was blown up by Creeper
-[01:16:55] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at vd.b(SourceFile:208) ~[server.jar:?]
-	at uw.a(SourceFile:897) ~[server.jar:?]
-	at vi.a(SourceFile:475) ~[server.jar:?]
-	at wc.a(SourceFile:835) ~[server.jar:?]
-	at om.a(SourceFile:126) ~[server.jar:?]
-	at om$a.a(SourceFile:57) ~[server.jar:?]
-	at ke.a(SourceFile:21) ~[server.jar:?]
-	at rk.run(SourceFile:18) ~[server.jar:?]
-	at agq.h(SourceFile:144) [server.jar:?]
-	at agu.h(SourceFile:23) [server.jar:?]
-	at agq.q(SourceFile:118) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.aX(SourceFile:712) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.q(SourceFile:706) [server.jar:?]
-	at agq.c(SourceFile:127) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.p(SourceFile:691) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:646) [server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_221]
-[01:17:16] [Server thread/INFO]: CbKnn was blown up by Creeper
-[01:17:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/211127, l='world', x=17.61, y=58.71, z=54.46]
-[01:17:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/211160, l='world', x=63.71, y=67.00, z=327.91]
-[01:17:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/211160, l='world', x=63.71, y=67.00, z=327.91]
-[01:18:54] [Server thread/INFO]: CbKnn fell from a high place
-[01:19:20] [Server thread/WARN]: Wrong location! (8, 1) should be (8, 0), auv['Zombie Pigman'/211790, l='world', x=131.00, y=52.35, z=16.00]
-[01:24:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/212891, l='world', x=66.65, y=67.00, z=328.65]
-[01:24:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/212891, l='world', x=66.65, y=67.00, z=328.65]
-[01:26:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/213233, l='world', x=67.25, y=67.00, z=330.17]
-[01:26:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/213233, l='world', x=67.25, y=67.00, z=330.17]
-[01:28:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/213522, l='world', x=66.91, y=67.00, z=329.60]
-[01:28:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/213522, l='world', x=66.91, y=67.00, z=329.60]
-[01:30:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/213797, l='world', x=67.47, y=67.00, z=327.31]
-[01:30:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/213797, l='world', x=67.47, y=67.00, z=327.31]
-[01:31:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/213849, l='world', x=65.64, y=67.00, z=329.10]
-[01:31:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/213849, l='world', x=65.64, y=67.00, z=329.10]
-[01:33:29] [Server thread/INFO]: CbKnn lost connection: Disconnected
-[01:33:29] [Server thread/INFO]: CbKnn left the game
-[01:33:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/214369, l='world', x=66.86, y=67.00, z=328.46]
-[01:39:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/215343, l='world', x=66.42, y=67.00, z=327.27]
-[01:47:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/216634, l='world', x=62.83, y=67.00, z=328.89]
-[01:49:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/216842, l='world', x=66.00, y=67.00, z=327.61]
-[01:55:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/217706, l='world', x=65.21, y=67.00, z=328.80]
-[01:58:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/218220, l='world', x=63.34, y=67.00, z=328.49]
-[02:03:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/218868, l='world', x=63.34, y=67.00, z=328.55]
-[02:03:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/218885, l='world', x=66.03, y=67.00, z=329.76]
-[02:03:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/218972, l='world', x=66.31, y=67.00, z=329.55]
-[02:04:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/218973, l='world', x=67.10, y=67.00, z=327.49]
-[02:06:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/219363, l='world', x=67.21, y=67.00, z=328.26]
-[02:08:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/219933, l='world', x=64.28, y=67.00, z=327.81]
-[02:09:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/220140, l='world', x=64.64, y=67.00, z=327.23]
-[02:18:55] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/221547, l='world', x=64.48, y=67.00, z=327.39]
-[02:20:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/221734, l='world', x=63.28, y=67.00, z=330.17]
-[02:22:37] [Server thread/WARN]: DragonD moved too quickly! 1.5725625455825565,-10.006562322799425,-1.9105389396823966
-[02:26:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/222745, l='world', x=63.25, y=67.00, z=328.27]
-[02:32:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/223735, l='world', x=66.69, y=67.00, z=328.85]
-[02:35:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/224173, l='world', x=68.17, y=67.00, z=328.74]
-[02:35:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/224181, l='world', x=63.26, y=67.00, z=327.77]
-[02:42:48] [Server thread/INFO]: DragonD lost connection: Disconnected
-[02:42:48] [Server thread/INFO]: DragonD left the game
-[02:42:54] [Server thread/INFO]: DragonD[/25.45.9.49:54607] logged in with entity id 226006 at (71.91322172306917, 63.10075742252126, 354.69870888726575)
-[02:42:54] [Server thread/INFO]: DragonD joined the game
-[02:43:29] [Server thread/INFO]: DragonD lost connection: Disconnected
-[02:43:29] [Server thread/INFO]: DragonD left the game
-[02:48:04] [Server thread/INFO]: Stopping the server
-[02:48:04] [Server thread/INFO]: Stopping server
-[02:48:04] [Server thread/INFO]: Saving players
-[02:48:04] [Server thread/INFO]: Saving worlds
-[02:48:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[02:48:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:48:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[02:48:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:48:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[02:48:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:48:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:48:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:48:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:02:51] [Server thread/INFO]: john[/25.43.173.28:50903] logged in with entity id 74137 at (47.299999974668026, 74.0000002, 372.299999974668)
+[00:02:51] [Server thread/INFO]: john joined the game
+[00:30:20] [Server thread/INFO]: <john> oi
+[00:30:22] [Server thread/INFO]: <john> wher u go
+[00:31:00] [Server thread/INFO]: <DragonD> bro discord is down
+[00:31:02] [Server thread/INFO]: <DragonD> it died
+[00:31:14] [Server thread/INFO]: <john> im still in tho
+[00:31:21] [Server thread/INFO]: <DragonD> wtf that's weird
+[00:31:26] [Server thread/INFO]: <DragonD> i can't even reach their website
+[00:34:14] [Server thread/INFO]: <DragonD> you're discord is really fine?
+[00:34:18] [Server thread/INFO]: <john> im still in
+[00:34:19] [Server thread/INFO]: <john> idk
+[00:34:20] [Server thread/INFO]: <john> lol
+[00:34:25] [Server thread/INFO]: <john> voice connected and all
+[00:34:40] [Server thread/INFO]: <DragonD> try and go to
+[00:34:50] [Server thread/INFO]: <DragonD> www.status.discordapp.com
+[00:35:34] [Server thread/INFO]: <john> i can go discord's web
+[00:35:34] [Server thread/INFO]: <DragonD> damn i remember
+[00:35:40] [Server thread/INFO]: <DragonD> i used to type where are yoy
+[00:35:42] [Server thread/INFO]: <DragonD> you
+[00:35:44] [Server thread/INFO]: <DragonD> as wer r u
+[00:35:46] [Server thread/INFO]: <DragonD> HAHAHHAHA
+[00:35:48] [Server thread/INFO]: <DragonD> fuck
+[00:35:50] [Server thread/INFO]: <john> wtf
+[00:35:52] [Server thread/INFO]: <john> ew
+[00:35:53] [Server thread/INFO]: <john> when
+[00:35:59] [Server thread/INFO]: <DragonD> when i was 12
+[00:36:04] [Server thread/INFO]: <john> understandable
+[00:36:06] [Server thread/INFO]: <DragonD> playing hunger games in minecraft
+[00:37:25] [Server thread/INFO]: <DragonD> damn fuck
+[00:37:35] [Server thread/INFO]: <DragonD> can't be my internet
+[00:37:49] [Server thread/INFO]: <john> im forcing the kids of the cows to mate with their own parents
+[00:37:52] [Server thread/INFO]: <john> thats fucked
+[00:37:56] [Server thread/INFO]: <DragonD> yeah man
+[00:37:58] [Server thread/INFO]: <DragonD> this game
+[00:38:04] [Server thread/INFO]: <DragonD> has a fucked up breeding system
+[00:40:43] [Server thread/INFO]: <john> you got lead
+[00:40:44] [Server thread/INFO]: <john> lol
+[00:40:48] [Server thread/INFO]: <john> i think u took mine
+[00:40:49] [Server thread/INFO]: <DragonD> nope no more
+[00:40:55] [Server thread/INFO]: <DragonD> i definitely didn't
+[00:40:58] [Server thread/INFO]: <john> cool
+[00:41:01] [Server thread/INFO]: <john> i dont have it
+[00:41:17] [Server thread/INFO]: <DragonD> just take one of the llamas
+[00:47:03] [Server thread/INFO]: <john> daniel
+[00:47:04] [Server thread/INFO]: <john> come
+[00:47:06] [Server thread/INFO]: <john> farm
+[00:47:09] [Server thread/INFO]: <john> cow farm
+[00:48:22] [Server thread/INFO]: <john> nvm
+[00:48:23] [Server thread/INFO]: <john> lol
+[00:48:28] [Server thread/INFO]: <john> wanted you to close the fence
+[00:48:31] [Server thread/INFO]: <john> but i parkour that shit
+[00:48:31] [Server thread/INFO]: <DragonD> oh
+[00:48:35] [Server thread/INFO]: <DragonD> ez
+[00:48:50] [Server thread/INFO]: <john> should make it 3x3
+[00:48:53] [Server thread/INFO]: <DragonD> i totally forgot
+[00:48:56] [Server thread/INFO]: <john> so they automatically despawn
+[00:49:02] [Server thread/INFO]: <john> when they hit a certain amt
+[00:49:11] [Server thread/INFO]: <DragonD> that my sword allows me to get cooked beef
+[01:00:10] [Server thread/WARN]: Horse moved wrongly!
+[01:00:11] [Server thread/WARN]: Horse moved wrongly!
+[01:00:11] [Server thread/WARN]: Horse moved wrongly!
+[01:01:14] [Server thread/WARN]: Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:19:29] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[01:20:53] [Server thread/WARN]: Skeleton Horse (vehicle of DragonD) moved too quickly! -7.3316545642080655,1.0,-7.062665804527342
+[01:20:53] [Server thread/WARN]: Skeleton Horse (vehicle of DragonD) moved too quickly! -7.643448607853884,1.0,-7.346016528952532
+[01:20:53] [Server thread/WARN]: Skeleton Horse (vehicle of DragonD) moved too quickly! -7.9506322320268055,1.0,-7.63444634339362
+[01:20:53] [Server thread/WARN]: Skeleton Horse (vehicle of DragonD) moved too quickly! -8.253539840820281,1.0,-7.927425461675739
+[01:20:53] [Server thread/WARN]: Skeleton Horse (vehicle of DragonD) moved too quickly! -8.550837645606634,1.0,-8.226080379687687
+[01:20:53] [Server thread/WARN]: Skeleton Horse (vehicle of DragonD) moved too quickly! -8.840423601421094,1.0,-8.532116376509407
+[01:20:53] [Server thread/WARN]: Skeleton Horse (vehicle of DragonD) moved too quickly! -9.119934120787775,1.0,-8.847201222346257
+[01:20:53] [Server thread/WARN]: Skeleton Horse (vehicle of DragonD) moved too quickly! -9.390346497498967,1.0,-9.170104420337339
+[01:20:53] [Server thread/WARN]: Skeleton Horse (vehicle of DragonD) moved too quickly! -9.65310487468264,1.0,-9.499332829068408
+[01:21:06] [Server thread/INFO]: john lost connection: Disconnected
+[01:21:06] [Server thread/INFO]: john left the game
+[01:26:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/96236, l='world', x=66.32, y=67.00, z=329.17]
+[01:35:31] [Server thread/INFO]: DragonD lost connection: Disconnected
+[01:35:31] [Server thread/INFO]: DragonD left the game
+[01:35:37] [Server thread/INFO]: DragonD[/25.45.9.49:51330] logged in with entity id 98013 at (124.49380888344876, 63.0, 359.25871254302905)
+[01:35:37] [Server thread/INFO]: DragonD joined the game
+[02:00:53] [Server thread/WARN]: DragonD moved too quickly! 6.46506054290785,-2.044812420399012,-7.863686038654123
+[02:23:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/109697, l='world', x=66.46, y=67.00, z=328.26]
+[02:24:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/109919, l='world', x=67.71, y=67.00, z=327.80]
+[02:30:40] [Server thread/INFO]: DragonD lost connection: Disconnected
+[02:30:40] [Server thread/INFO]: DragonD left the game
+[02:30:46] [Server thread/INFO]: DragonD[/25.45.9.49:51690] logged in with entity id 111024 at (60.965932558349, 78.0, 386.80648107813613)
+[02:30:46] [Server thread/INFO]: DragonD joined the game
+[03:07:44] [Server thread/WARN]: Horse moved wrongly!
+[03:07:44] [Server thread/WARN]: Horse moved wrongly!
+[03:07:44] [Server thread/WARN]: Horse moved wrongly!
+[03:08:32] [Server thread/WARN]: Horse moved wrongly!
+[03:08:32] [Server thread/WARN]: Horse moved wrongly!
+[03:08:32] [Server thread/WARN]: Horse moved wrongly!
+[03:09:27] [Server thread/WARN]: Horse moved wrongly!
+[03:11:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/118066, l='world', x=67.25, y=67.00, z=328.25]
+[03:38:06] [Server thread/INFO]: DragonD lost connection: Disconnected
+[03:38:06] [Server thread/INFO]: DragonD left the game
+[03:39:00] [Server thread/INFO]: Stopping the server
+[03:39:00] [Server thread/INFO]: Stopping server
+[03:39:00] [Server thread/INFO]: Saving players
+[03:39:00] [Server thread/INFO]: Saving worlds
+[03:39:00] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[03:39:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:39:00] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[03:39:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:39:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[03:39:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:39:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:39:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:39:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
