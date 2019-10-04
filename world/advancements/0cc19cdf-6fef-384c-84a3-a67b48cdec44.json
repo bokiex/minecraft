@@ -161,6 +161,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2019-10-05 02:18:29 +0800",
+      "diamond_helmet": "2019-10-05 02:18:29 +0800",
+      "diamond_chestplate": "2019-10-05 02:18:29 +0800",
+      "diamond_boots": "2019-10-05 02:18:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-09-27 01:03:43 +0800"
@@ -431,6 +440,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-10-05 02:35:25 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-09-26 00:33:08 +0800"
@@ -586,6 +601,7 @@
       "minecraft:pillager": "2019-09-27 22:38:49 +0800",
       "minecraft:skeleton": "2019-09-24 23:40:33 +0800",
       "minecraft:ravager": "2019-10-02 02:54:33 +0800",
+      "minecraft:ghast": "2019-10-05 02:35:25 +0800",
       "minecraft:vindicator": "2019-10-02 02:54:08 +0800",
       "minecraft:spider": "2019-09-24 23:57:49 +0800",
       "minecraft:creeper": "2019-09-26 00:12:21 +0800",
@@ -2851,7 +2867,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/ragdoll.png": "2019-10-04 03:10:39 +0800"
+      "textures/entity/cat/ragdoll.png": "2019-10-04 03:10:39 +0800",
+      "textures/entity/cat/red.png": "2019-10-05 00:14:16 +0800"
     },
     "done": false
   },
