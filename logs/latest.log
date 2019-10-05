@@ -1,107 +1,16 @@
-[00:00:15] [Server thread/INFO]: john lost connection: Disconnected
-[00:00:15] [Server thread/INFO]: john left the game
-[00:00:25] [Server thread/INFO]: DragonD lost connection: Disconnected
-[00:00:25] [Server thread/INFO]: DragonD left the game
-[00:00:50] [Server thread/INFO]: john[/25.43.173.28:52531] logged in with entity id 530 at (45.63898495929201, 66.0, 375.2433357354249)
-[00:00:50] [Server thread/INFO]: john joined the game
-[00:00:52] [Server thread/INFO]: john lost connection: Disconnected
-[00:00:52] [Server thread/INFO]: john left the game
-[00:00:54] [Server thread/INFO]: DragonD[/25.45.9.49:54539] logged in with entity id 604 at (51.60777114513109, 74.0, 375.1606836752154)
-[00:00:54] [Server thread/INFO]: DragonD joined the game
-[00:01:13] [Server thread/INFO]: john[/25.43.173.28:52534] logged in with entity id 688 at (45.63898495929201, 66.0, 375.2433357354249)
-[00:01:13] [Server thread/INFO]: john joined the game
-[00:08:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1684, l='world', x=67.71, y=67.00, z=327.71]
-[00:08:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1684, l='world', x=67.71, y=67.00, z=327.71]
-[00:19:59] [Server thread/WARN]: Horse moved wrongly!
-[00:19:59] [Server thread/WARN]: Horse moved wrongly!
-[00:25:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/4282, l='world', x=67.28, y=67.00, z=328.63]
-[00:25:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/4282, l='world', x=67.28, y=67.00, z=328.63]
-[00:25:49] [Server thread/INFO]: DragonD lost connection: Disconnected
-[00:25:49] [Server thread/INFO]: DragonD left the game
-[00:30:27] [Server thread/INFO]: DragonD[/25.45.9.49:54847] logged in with entity id 4992 at (58.86187526054675, 81.5, 377.6844349720449)
-[00:30:27] [Server thread/INFO]: DragonD joined the game
-[00:40:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/6953, l='world', x=67.26, y=67.00, z=326.83]
-[00:40:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/6953, l='world', x=67.26, y=67.00, z=326.83]
-[01:04:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10783, l='world', x=67.61, y=67.00, z=327.79]
-[01:04:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10783, l='world', x=67.61, y=67.00, z=327.79]
-[01:07:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/11169, l='world', x=67.31, y=67.00, z=328.21]
-[01:07:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/11169, l='world', x=67.31, y=67.00, z=328.21]
-[01:07:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/11290, l='world', x=68.17, y=67.00, z=327.44]
-[01:07:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/11290, l='world', x=68.17, y=67.00, z=327.44]
-[01:12:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12034, l='world', x=70.51, y=67.00, z=326.83]
-[01:12:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12034, l='world', x=70.51, y=67.00, z=326.83]
-[01:17:25] [Server thread/INFO]: DragonD lost connection: Disconnected
-[01:17:25] [Server thread/INFO]: DragonD left the game
-[01:17:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12940, l='world', x=70.95, y=67.00, z=326.83]
-[01:38:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/15751, l='world', x=66.97, y=67.00, z=329.17]
-[01:43:11] [Server thread/INFO]: Bellanca[/25.58.253.88:50238] logged in with entity id 16832 at (73.5, 64.0, 207.5)
-[01:43:11] [Server thread/INFO]: Bellanca joined the game
-[01:43:35] [Server thread/INFO]: DragonD[/25.45.9.49:55561] logged in with entity id 16987 at (68.54177881295654, 84.0, 363.76903363294366)
-[01:43:35] [Server thread/INFO]: DragonD joined the game
-[01:45:54] [Server thread/INFO]: Bellanca has made the advancement [Acquire Hardware]
-[01:53:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/20874, l='world', x=68.17, y=67.00, z=328.37]
-[01:55:06] [Server thread/INFO]: Bellanca has made the advancement [Isn't It Iron Pick]
-[02:04:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[02:05:46] [Server thread/INFO]: Bellanca fell from a high place
-[02:06:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/29603, l='world', x=66.85, y=67.00, z=328.72]
-[02:06:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/29603, l='world', x=66.85, y=67.00, z=328.72]
-[02:08:09] [Server thread/INFO]: Bellanca has made the advancement [Sweet Dreams]
-[02:09:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30135, l='world', x=67.79, y=67.00, z=327.61]
-[02:09:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30135, l='world', x=67.79, y=67.00, z=327.61]
-[02:10:04] [Server thread/WARN]: Fetching packet for removed entity atx['Wheat Seeds'/30305, l='world', x=39.72, y=63.94, z=336.98]
-[02:10:19] [Server thread/INFO]: Bellanca has made the advancement [A Seedy Place]
-[02:14:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/31207, l='world', x=67.03, y=67.00, z=328.38]
-[02:14:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/31207, l='world', x=67.03, y=67.00, z=328.38]
-[02:14:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/31207, l='world', x=67.03, y=67.00, z=328.38]
-[02:18:29] [Server thread/INFO]: DragonD has made the advancement [Cover Me With Diamonds]
-[02:20:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/32318, l='world', x=70.80, y=63.36, z=327.71]
-[02:20:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/32318, l='world', x=70.80, y=63.36, z=327.71]
-[02:20:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/32318, l='world', x=70.80, y=63.36, z=327.71]
-[02:21:32] [Server thread/INFO]: Bellanca has made the advancement [Monster Hunter]
-[02:22:50] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/33030, l='world', x=68.17, y=67.00, z=328.29]
-[02:22:50] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/33030, l='world', x=68.17, y=67.00, z=328.29]
-[02:22:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/33042, l='world', x=66.27, y=67.00, z=328.72]
-[02:22:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/33042, l='world', x=66.27, y=67.00, z=328.72]
-[02:27:59] [Server thread/INFO]: john has made the advancement [We Need to Go Deeper]
-[02:28:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34734, l='world', x=66.70, y=67.00, z=327.83]
-[02:29:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[02:30:55] [Server thread/WARN]: Fetching packet for removed entity atx['Nether Quartz'/35761, l='world', x=-105.88, y=45.00, z=102.13]
-[02:34:25] [Server thread/WARN]: john moved too quickly! 7.40755176815477,0.7012968536522166,-6.7455823857570385
-[02:35:25] [Server thread/INFO]: DragonD has completed the challenge [Return to Sender]
-[02:39:25] [Server thread/WARN]: john moved too quickly! 9.653981920948347,0.7752370094690022,-2.6376086633452545
-[02:41:15] [Server thread/INFO]: Bellanca has made the advancement [Stone Age]
-[02:44:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/40181, l='world', x=67.30, y=67.00, z=327.34]
-[02:44:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/40181, l='world', x=67.30, y=67.00, z=327.34]
-[02:45:41] [Server thread/INFO]: Bellanca was shot by Skeleton
-[02:48:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41024, l='world', x=67.36, y=67.00, z=327.21]
-[02:48:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41024, l='world', x=67.36, y=67.00, z=327.21]
-[02:48:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41024, l='world', x=67.36, y=67.00, z=327.21]
-[02:50:34] [Server thread/INFO]: Bellanca lost connection: Disconnected
-[02:50:34] [Server thread/INFO]: Bellanca left the game
-[02:54:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42038, l='world', x=66.75, y=67.00, z=328.31]
-[02:54:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42038, l='world', x=66.75, y=67.00, z=328.31]
-[03:05:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/43925, l='world', x=67.96, y=67.00, z=327.65]
-[03:05:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/43925, l='world', x=67.96, y=67.00, z=327.65]
-[03:33:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/49047, l='world', x=65.83, y=67.00, z=329.10]
-[03:38:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/50709, l='world', x=67.68, y=67.00, z=328.71]
-[03:44:13] [Server thread/INFO]: DragonD was blown up by Creeper
-[03:47:05] [Server thread/INFO]: DragonD was shot by Skeleton
-[04:07:37] [Server thread/INFO]: DragonD lost connection: Disconnected
-[04:07:37] [Server thread/INFO]: DragonD left the game
-[04:20:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/64287, l='world', x=65.83, y=67.00, z=328.69]
-[04:41:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/67563, l='world', x=68.17, y=67.00, z=327.28]
-[04:55:27] [Server thread/INFO]: john lost connection: Disconnected
-[04:55:27] [Server thread/INFO]: john left the game
-[05:02:15] [Server thread/INFO]: Stopping the server
-[05:02:15] [Server thread/INFO]: Stopping server
-[05:02:15] [Server thread/INFO]: Saving players
-[05:02:15] [Server thread/INFO]: Saving worlds
-[05:02:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[05:02:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:02:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[05:02:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:02:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[05:02:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:02:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:02:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:02:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:08:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/128426, l='world', x=68.17, y=67.00, z=326.83]
+[00:08:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/128426, l='world', x=68.17, y=67.00, z=326.83]
+[00:08:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/128426, l='world', x=68.17, y=67.00, z=326.83]
+[00:14:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/129348, l='world', x=68.17, y=67.00, z=327.81]
+[00:14:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/129348, l='world', x=68.17, y=67.00, z=327.81]
+[00:15:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/129532, l='world', x=66.27, y=67.00, z=329.17]
+[00:15:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/129532, l='world', x=66.27, y=67.00, z=329.17]
+[00:18:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/130186, l='world', x=67.54, y=67.00, z=327.56]
+[00:18:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/130186, l='world', x=67.54, y=67.00, z=327.56]
+[00:20:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/130722, l='world', x=65.83, y=67.00, z=329.17]
+[00:23:43] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/131481, l='world', x=66.66, y=67.00, z=328.51]
+[00:24:57] [Server thread/INFO]: john fell from a high place
+[00:27:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/132480, l='world', x=65.83, y=67.00, z=328.33]
+[00:28:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/132695, l='world', x=67.74, y=67.00, z=328.80]
+[00:28:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/132724, l='world', x=67.70, y=67.00, z=327.85]
+[00:35:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/134277, l='world', x=66.33, y=67.00, z=327.17]

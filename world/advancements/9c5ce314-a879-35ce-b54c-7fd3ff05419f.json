@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-10-05 22:10:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-09-30 00:58:19 +0800"
@@ -584,6 +590,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2019-09-27 22:38:41 +0800",
+      "minecraft:blaze": "2019-10-05 22:47:12 +0800",
       "minecraft:skeleton": "2019-09-24 23:41:28 +0800",
       "minecraft:zombie_pigman": "2019-10-01 00:50:47 +0800",
       "minecraft:ravager": "2019-09-27 23:53:03 +0800",
@@ -814,6 +821,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2019-09-26 23:28:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-10-05 22:11:46 +0800"
     },
     "done": true
   },
@@ -1668,15 +1681,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2019-10-05 03:20:41 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2019-10-05 02:30:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-10-05 03:20:41 +0800"
     },
     "done": true
   },
@@ -2396,6 +2409,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-10-05 22:11:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-10-05 03:20:41 +0800"
@@ -2612,9 +2631,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-10-05 22:11:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-09-24 23:32:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2019-10-05 23:35:46 +0800"
     },
     "done": true
   },
@@ -2651,6 +2682,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2019-09-27 23:37:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-10-05 22:11:46 +0800"
     },
     "done": true
   },

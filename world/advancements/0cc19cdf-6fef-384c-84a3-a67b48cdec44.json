@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2019-10-05 17:10:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2019-09-25 00:01:57 +0800"
@@ -380,6 +386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2019-10-05 17:10:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-09-25 23:06:24 +0800"
@@ -599,6 +611,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2019-09-27 22:38:49 +0800",
+      "minecraft:blaze": "2019-10-05 22:11:21 +0800",
       "minecraft:skeleton": "2019-09-24 23:40:33 +0800",
       "minecraft:ravager": "2019-10-02 02:54:33 +0800",
       "minecraft:ghast": "2019-10-05 02:35:25 +0800",
@@ -608,6 +621,7 @@
       "minecraft:evoker": "2019-10-02 02:57:28 +0800",
       "minecraft:phantom": "2019-10-01 00:50:36 +0800",
       "minecraft:witch": "2019-10-01 00:13:30 +0800",
+      "minecraft:wither_skeleton": "2019-10-05 22:49:04 +0800",
       "minecraft:husk": "2019-09-29 03:06:47 +0800",
       "minecraft:cave_spider": "2019-10-02 15:27:46 +0800",
       "minecraft:enderman": "2019-10-01 03:32:27 +0800",
@@ -845,6 +859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-10-05 23:02:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-09-25 00:16:17 +0800"
@@ -860,6 +880,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2019-09-25 23:37:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-10-05 17:10:28 +0800"
     },
     "done": true
   },
@@ -1370,6 +1396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_acacia_planks": "2019-10-05 17:10:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-09-27 01:04:21 +0800"
@@ -1475,6 +1507,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2019-09-27 23:54:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2019-10-05 17:10:28 +0800"
     },
     "done": true
   },
@@ -1943,6 +1981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2019-10-05 17:10:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2019-09-29 01:30:53 +0800"
@@ -2124,6 +2168,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2019-09-25 00:01:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2019-10-05 17:10:28 +0800"
     },
     "done": true
   },
@@ -2457,6 +2507,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-10-05 22:48:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-10-01 04:35:01 +0800"
@@ -2502,6 +2558,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2019-09-30 03:20:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-10-05 17:10:28 +0800"
     },
     "done": true
   },
@@ -2589,6 +2651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-10-05 17:10:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-09-24 23:33:14 +0800"
@@ -2661,6 +2729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-10-05 23:02:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-09-25 00:18:56 +0800"
@@ -2706,6 +2780,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2019-09-29 23:47:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-10-05 23:02:13 +0800"
     },
     "done": true
   },
@@ -2867,6 +2947,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/black.png": "2019-10-05 18:21:40 +0800",
       "textures/entity/cat/ragdoll.png": "2019-10-04 03:10:39 +0800",
       "textures/entity/cat/red.png": "2019-10-05 00:14:16 +0800"
     },
