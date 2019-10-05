@@ -14,3 +14,40 @@
 [00:28:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/132695, l='world', x=67.74, y=67.00, z=328.80]
 [00:28:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/132724, l='world', x=67.70, y=67.00, z=327.85]
 [00:35:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/134277, l='world', x=66.33, y=67.00, z=327.17]
+[00:39:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/135647, l='world', x=68.17, y=67.00, z=329.17]
+[00:46:33] [Server thread/INFO]: Bellanca was shot by Skeleton
+[00:46:46] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/138535, l='world', x=367.33, y=7.50, z=575.68]
+[00:46:48] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/138552, l='world', x=367.44, y=6.81, z=575.74]
+[00:49:44] [Server thread/INFO]: DragonD was blown up by Creeper
+[00:50:14] [Server thread/WARN]: john moved too quickly! 10.00387348271795,0.41999998688697815,-1.586754527348262
+[00:50:14] [Server thread/WARN]: DragonD moved too quickly! 9.117496286353003,2.1661092609382138,-4.181334525253305
+[00:53:48] [Server thread/INFO]: Bellanca has made the advancement [Diamonds!]
+[00:58:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/141933, l='world', x=66.29, y=67.00, z=327.63]
+[00:59:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/142430, l='world', x=65.83, y=67.00, z=328.11]
+[01:00:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/142477, l='world', x=66.58, y=67.00, z=327.89]
+[01:02:46] [Server thread/INFO]: john lost connection: Disconnected
+[01:02:46] [Server thread/INFO]: john left the game
+[01:07:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/144007, l='world', x=66.31, y=67.00, z=327.54]
+[01:08:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/144182, l='world', x=67.70, y=67.00, z=328.68]
+[01:13:07] [Server thread/INFO]: Bellanca lost connection: Disconnected
+[01:13:07] [Server thread/INFO]: Bellanca left the game
+[01:14:20] [Server thread/INFO]: Bellanca[/25.58.253.88:53526] logged in with entity id 145259 at (282.9514843841432, 49.0, 335.30000001192093)
+[01:14:20] [Server thread/INFO]: Bellanca joined the game
+[01:45:17] [Server thread/WARN]: DragonD moved too quickly! 0.0,10.448005015491376,-0.019256628212815485
+[01:53:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/152123, l='world', x=67.28, y=67.00, z=329.17]
+[02:07:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/154631, l='world', x=65.83, y=67.00, z=328.04]
+[02:09:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/154839, l='world', x=66.81, y=67.00, z=328.76]
+[02:10:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/155095, l='world', x=67.09, y=67.00, z=328.69]
+[02:10:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/155095, l='world', x=67.09, y=67.00, z=328.69]
+[02:15:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/155900, l='world', x=65.83, y=67.00, z=328.30]
+[02:15:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/155900, l='world', x=65.83, y=67.00, z=328.30]
+[02:30:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/158432, l='world', x=68.17, y=67.00, z=327.35]
+[02:33:44] [Server thread/WARN]: Rapidash moved wrongly!
+[02:33:44] [Server thread/WARN]: Rapidash moved wrongly!
+[02:33:44] [Server thread/WARN]: Rapidash moved wrongly!
+[02:35:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/159541, l='world', x=65.83, y=67.00, z=328.77]
+[02:39:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/160110, l='world', x=65.83, y=67.00, z=328.69]
+[02:39:53] [Server thread/INFO]: Bellanca lost connection: Disconnected
+[02:39:53] [Server thread/INFO]: Bellanca left the game
+[02:39:53] [Server thread/INFO]: DragonD lost connection: Disconnected
+[02:39:53] [Server thread/INFO]: DragonD left the game
