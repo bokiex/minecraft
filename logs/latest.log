@@ -1,39 +1,48 @@
-[18:02:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:02:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:02:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:02:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:02:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:02:27] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[18:02:27] [Server thread/INFO]: Loading properties
-[18:02:27] [Server thread/INFO]: Default game type: SURVIVAL
-[18:02:27] [Server thread/INFO]: Generating keypair
-[18:02:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:02:27] [Server thread/INFO]: Using default channel type
-[18:02:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:02:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:02:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:02:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:02:28] [Server thread/INFO]: Preparing level "world"
-[18:02:28] [Server thread/INFO]: Reloading ResourceManager: Default
-[18:02:29] [Server thread/INFO]: Loaded 6 recipes
-[18:02:30] [Server thread/INFO]: Loaded 811 advancements
-[18:02:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:02:32] [Server thread/INFO]: Preparing spawn area: 0%
-[18:02:32] [Server thread/INFO]: Preparing spawn area: 0%
-[18:02:32] [Server thread/INFO]: Preparing spawn area: 0%
-[18:02:32] [Server thread/INFO]: Preparing spawn area: 0%
-[18:02:32] [Server thread/INFO]: Preparing spawn area: 0%
-[18:02:34] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[18:02:34] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[18:02:34] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[18:02:34] [Server thread/INFO]: Preparing spawn area: 2%
-[18:02:34] [Server thread/WARN]: Keeping entity minecraft:zombie that already exists with UUID 683f1ec7-e588-458b-91dc-78c0fba77835
-[18:02:35] [Server thread/INFO]: Time elapsed: 4350 ms
-[18:02:35] [Server thread/INFO]: Done (6.423s)! For help, type "help"
-[18:05:46] [Server thread/INFO]: DragonD[/25.45.9.49:49954] logged in with entity id 395 at (77.56147616118616, 84.0, 360.6361520650469)
-[18:05:46] [Server thread/INFO]: DragonD joined the game
-[18:09:41] [Server thread/INFO]: Bellanca[/25.58.253.88:56531] logged in with entity id 1130 at (145.29999997466803, 64.0000002, 356.299999974668)
-[18:09:41] [Server thread/INFO]: Bellanca joined the game
-[18:17:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2466, l='world', x=65.83, y=67.00, z=327.75]
-[18:23:58] [Server thread/INFO]: DragonD lost connection: Disconnected
-[18:23:58] [Server thread/INFO]: DragonD left the game
+[20:49:31] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:49:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:49:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:49:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:49:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:49:31] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[20:49:31] [Server thread/INFO]: Loading properties
+[20:49:31] [Server thread/INFO]: Default game type: SURVIVAL
+[20:49:31] [Server thread/INFO]: Generating keypair
+[20:49:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:49:32] [Server thread/INFO]: Using default channel type
+[20:49:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:49:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:49:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:49:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:49:32] [Server thread/INFO]: Preparing level "world"
+[20:49:32] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:49:33] [Server thread/INFO]: Loaded 6 recipes
+[20:49:34] [Server thread/INFO]: Loaded 811 advancements
+[20:49:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:49:37] [Server thread/INFO]: Preparing spawn area: 0%
+[20:49:37] [Server thread/INFO]: Preparing spawn area: 0%
+[20:49:37] [Server thread/INFO]: Preparing spawn area: 0%
+[20:49:37] [Server thread/INFO]: Preparing spawn area: 0%
+[20:49:37] [Server thread/INFO]: Preparing spawn area: 0%
+[20:49:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[20:49:38] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[20:49:38] [Server thread/INFO]: Preparing spawn area: 0%
+[20:49:39] [Server thread/INFO]: Time elapsed: 3963 ms
+[20:49:39] [Server thread/INFO]: Done (6.436s)! For help, type "help"
+[20:50:09] [Server thread/WARN]: Failed to load player data for Swazztastic
+[20:50:09] [Server thread/INFO]: Swazztastic[/25.45.9.49:51560] logged in with entity id 408 at (88.5, 63.0, 206.5)
+[20:50:09] [Server thread/INFO]: Swazztastic joined the game
+[20:50:15] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[20:50:15] [Server thread/INFO]: Swazztastic left the game
+[20:50:39] [Server thread/INFO]: Stopping the server
+[20:50:39] [Server thread/INFO]: Stopping server
+[20:50:39] [Server thread/INFO]: Saving players
+[20:50:39] [Server thread/INFO]: Saving worlds
+[20:50:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:50:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:50:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:50:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
