@@ -1,51 +1,77 @@
-[20:53:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:53:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:53:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:53:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:53:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:53:51] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[20:53:51] [Server thread/INFO]: Loading properties
-[20:53:51] [Server thread/INFO]: Default game type: SURVIVAL
-[20:53:51] [Server thread/INFO]: Generating keypair
-[20:53:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:53:51] [Server thread/INFO]: Using default channel type
-[20:53:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:53:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:53:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:53:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:53:52] [Server thread/INFO]: Preparing level "world"
-[20:53:52] [Server thread/INFO]: Reloading ResourceManager: Default
-[20:53:52] [Server thread/INFO]: Loaded 6 recipes
-[20:53:53] [Server thread/INFO]: Loaded 811 advancements
-[20:53:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[20:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[20:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[20:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[20:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[20:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[20:53:57] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[20:53:57] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[20:53:58] [Server thread/INFO]: Preparing spawn area: 1%
-[20:53:58] [Server thread/INFO]: Time elapsed: 4345 ms
-[20:53:58] [Server thread/INFO]: Done (6.523s)! For help, type "help"
-[20:54:30] [Server thread/INFO]: Swazztastic[/25.45.9.49:51744] logged in with entity id 425 at (66.8533518837956, 84.0, 364.45538479236325)
-[20:54:30] [Server thread/INFO]: Swazztastic joined the game
-[20:54:31] [Server thread/INFO]: Swazztastic has made the advancement [Stone Age]
-[20:54:31] [Server thread/INFO]: Swazztastic has made the advancement [Acquire Hardware]
-[20:54:31] [Server thread/INFO]: Swazztastic has made the advancement [Suit Up]
-[20:55:45] [Server thread/INFO]: Swazztastic lost connection: Disconnected
-[20:55:45] [Server thread/INFO]: Swazztastic left the game
-[20:56:09] [Server thread/INFO]: Stopping the server
-[20:56:09] [Server thread/INFO]: Stopping server
-[20:56:09] [Server thread/INFO]: Saving players
-[20:56:09] [Server thread/INFO]: Saving worlds
-[20:56:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[20:56:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:56:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[20:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:56:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[20:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:57:41] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:57:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:57:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:57:41] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:57:41] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:57:42] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[20:57:42] [Server thread/INFO]: Loading properties
+[20:57:42] [Server thread/INFO]: Default game type: SURVIVAL
+[20:57:42] [Server thread/INFO]: Generating keypair
+[20:57:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:57:42] [Server thread/INFO]: Using default channel type
+[20:57:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:57:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:57:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:57:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:57:43] [Server thread/INFO]: Preparing level "world"
+[20:57:43] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:57:44] [Server thread/INFO]: Loaded 6 recipes
+[20:57:44] [Server thread/INFO]: Loaded 811 advancements
+[20:57:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:57:47] [Server thread/INFO]: Preparing spawn area: 0%
+[20:57:47] [Server thread/INFO]: Preparing spawn area: 0%
+[20:57:47] [Server thread/INFO]: Preparing spawn area: 0%
+[20:57:47] [Server thread/INFO]: Preparing spawn area: 0%
+[20:57:47] [Server thread/INFO]: Preparing spawn area: 0%
+[20:57:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:57:48] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[20:57:49] [Server thread/INFO]: Preparing spawn area: 34%
+[20:57:49] [Server thread/INFO]: Time elapsed: 3810 ms
+[20:57:49] [Server thread/INFO]: Done (6.006s)! For help, type "help"
+[20:57:58] [Server thread/INFO]: Swazztastic[/25.45.9.49:51766] logged in with entity id 392 at (113.14345210192383, 84.0, 359.43309614569415)
+[20:57:58] [Server thread/INFO]: Swazztastic joined the game
+[20:58:07] [Server thread/INFO]: Bellanca[/25.58.253.88:57318] logged in with entity id 537 at (143.1247093412752, 54.0, 369.0738528294002)
+[20:58:07] [Server thread/INFO]: Bellanca joined the game
+[21:00:42] [Server thread/INFO]: Swazztastic has made the advancement [Monster Hunter]
+[21:01:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1468, l='world', x=66.72, y=67.00, z=326.83]
+[21:01:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1468, l='world', x=66.72, y=67.00, z=326.83]
+[21:01:56] [Server thread/INFO]: Swazztastic has made the advancement [A Seedy Place]
+[21:06:51] [Server thread/INFO]: Swazztastic has made the advancement [The Parrots and the Bats]
+[21:07:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2872, l='world', x=67.79, y=67.00, z=328.83]
+[21:07:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2872, l='world', x=67.79, y=67.00, z=328.83]
+[21:08:17] [Server thread/INFO]: Swazztastic has made the advancement [What a Deal!]
+[21:09:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3346, l='world', x=68.17, y=67.00, z=326.83]
+[21:10:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3622, l='world', x=66.22, y=67.00, z=328.33]
+[21:10:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3622, l='world', x=66.22, y=67.00, z=328.33]
+[21:10:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3687, l='world', x=66.91, y=67.00, z=328.03]
+[21:10:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3687, l='world', x=66.91, y=67.00, z=328.03]
+[21:13:53] [Server thread/WARN]: Swazztastic was kicked for floating too long!
+[21:13:53] [Server thread/INFO]: Swazztastic lost connection: Flying is not enabled on this server
+[21:13:53] [Server thread/INFO]: Swazztastic left the game
+[21:14:00] [Server thread/INFO]: Swazztastic[/25.45.9.49:51858] logged in with entity id 4434 at (-67.8793449572623, 73.8500000178814, 311.25759013361676)
+[21:14:00] [Server thread/INFO]: Swazztastic joined the game
+[21:15:04] [Server thread/WARN]: Horse moved wrongly!
+[21:15:04] [Server thread/WARN]: Horse moved wrongly!
+[21:15:04] [Server thread/WARN]: Horse moved wrongly!
+[21:15:04] [Server thread/WARN]: Horse moved wrongly!
+[21:15:05] [Server thread/WARN]: Horse moved wrongly!
+[21:33:23] [Server thread/INFO]: Bellanca was blown up by Creeper
+[21:34:42] [Server thread/INFO]: Swazztastic has made the advancement [Diamonds!]
+[21:36:23] [Server thread/WARN]: Rapidash moved wrongly!
+[21:38:18] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[21:38:18] [Server thread/INFO]: Swazztastic left the game
+[21:39:06] [Server thread/INFO]: Bellanca lost connection: Disconnected
+[21:39:06] [Server thread/INFO]: Bellanca left the game
+[21:40:00] [Server thread/INFO]: Stopping the server
+[21:40:00] [Server thread/INFO]: Stopping server
+[21:40:00] [Server thread/INFO]: Saving players
+[21:40:00] [Server thread/INFO]: Saving worlds
+[21:40:00] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:40:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:40:00] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:40:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:40:00] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:40:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:40:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:40:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:40:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
