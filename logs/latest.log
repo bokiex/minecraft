@@ -41,3 +41,9 @@
 [07:26:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3635ms or 72 ticks behind
 [07:28:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1908, l='world', x=68.17, y=67.00, z=326.83]
 [07:29:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[07:31:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[07:38:01] [Server thread/INFO]: Swazztastic was impaled by Drowned
+[07:38:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3265, l='world', x=66.73, y=67.00, z=326.83]
+[07:41:09] [Server thread/WARN]: Swazztastic moved too quickly! -2.1693991990791517,-9.667067244575918,2.8108821402600483
+[07:43:10] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[07:43:10] [Server thread/INFO]: Swazztastic left the game
