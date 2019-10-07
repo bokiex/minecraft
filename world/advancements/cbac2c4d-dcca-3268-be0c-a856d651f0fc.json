@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2019-10-07 19:01:59 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-09-30 22:18:04 +0800"
@@ -696,6 +702,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2019-10-01 16:37:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2019-10-07 23:00:37 +0800"
     },
     "done": true
   },
@@ -1332,6 +1344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2019-10-07 18:13:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-10-01 22:32:19 +0800"
@@ -1608,6 +1626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2019-10-07 20:16:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_at_least_9_ice": "2019-10-04 20:35:39 +0800"
@@ -1666,6 +1690,7 @@
     "criteria": {
       "cooked_porkchop": "2019-10-02 04:51:53 +0800",
       "cooked_mutton": "2019-10-02 03:02:37 +0800",
+      "cooked_beef": "2019-10-07 23:55:11 +0800",
       "cooked_cod": "2019-09-30 22:09:12 +0800",
       "bread": "2019-10-01 02:44:42 +0800",
       "cooked_rabbit": "2019-10-02 03:09:03 +0800",
@@ -2281,6 +2306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2019-10-07 18:13:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-09-30 22:49:15 +0800"
@@ -2392,6 +2423,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2019-10-01 17:16:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2019-10-07 23:00:37 +0800"
     },
     "done": true
   },
