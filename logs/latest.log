@@ -120,3 +120,18 @@
 [06:52:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/185279, l='world', x=65.83, y=67.00, z=328.23]
 [06:59:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/186106, l='world', x=67.72, y=67.00, z=327.77]
 [07:12:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/187659, l='world', x=65.83, y=67.00, z=328.77]
+[07:18:16] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[07:18:16] [Server thread/INFO]: Swazztastic left the game
+[07:18:22] [Server thread/INFO]: Stopping the server
+[07:18:22] [Server thread/INFO]: Stopping server
+[07:18:22] [Server thread/INFO]: Saving players
+[07:18:22] [Server thread/INFO]: Saving worlds
+[07:18:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[07:18:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:18:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[07:18:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:18:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[07:18:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:18:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:18:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:18:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
