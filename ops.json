@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "1a2c7830-ca4c-3980-afa3-876f7309b079",
+    "name": "Swazztastic",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

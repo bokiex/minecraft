@@ -1,62 +1,61 @@
-[07:20:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[07:20:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:20:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:20:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[07:20:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:20:28] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[07:20:28] [Server thread/INFO]: Loading properties
-[07:20:28] [Server thread/INFO]: Default game type: SURVIVAL
-[07:20:28] [Server thread/INFO]: Generating keypair
-[07:20:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:20:29] [Server thread/INFO]: Using default channel type
-[07:20:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:20:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:20:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:20:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:20:30] [Server thread/INFO]: Preparing level "world"
-[07:20:31] [Server thread/INFO]: Reloading ResourceManager: Default
-[07:20:32] [Server thread/INFO]: Loaded 6 recipes
-[07:20:33] [Server thread/INFO]: Loaded 811 advancements
-[07:20:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:20:36] [Server thread/INFO]: Preparing spawn area: 0%
-[07:20:36] [Server thread/INFO]: Preparing spawn area: 0%
-[07:20:36] [Server thread/INFO]: Preparing spawn area: 0%
-[07:20:36] [Server thread/INFO]: Preparing spawn area: 0%
-[07:20:36] [Server thread/INFO]: Preparing spawn area: 0%
-[07:20:36] [Server thread/INFO]: Preparing spawn area: 0%
-[07:20:37] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[07:20:37] [Server thread/INFO]: Preparing spawn area: 0%
-[07:20:38] [Server thread/INFO]: Preparing spawn area: 19%
-[07:20:38] [Server thread/INFO]: Preparing spawn area: 66%
-[07:20:40] [Server thread/INFO]: Time elapsed: 5934 ms
-[07:20:40] [Server thread/INFO]: Done (9.175s)! For help, type "help"
-[07:20:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
-[07:21:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8304ms or 166 ticks behind
-[07:21:21] [Server thread/INFO]: Swazztastic[/25.8.151.226:56301] logged in with entity id 352 at (71.79638317231363, 84.0, 363.6305911889088)
-[07:21:21] [Server thread/INFO]: Swazztastic joined the game
-[07:21:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
-[07:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[07:24:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5460ms or 109 ticks behind
-[07:26:03] [Server thread/WARN]: Swazztastic moved too quickly! 9.854513093688626,1.0,2.2289474519395753
-[07:26:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3635ms or 72 ticks behind
-[07:28:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1908, l='world', x=68.17, y=67.00, z=326.83]
-[07:29:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[07:31:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[07:38:01] [Server thread/INFO]: Swazztastic was impaled by Drowned
-[07:38:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3265, l='world', x=66.73, y=67.00, z=326.83]
-[07:41:09] [Server thread/WARN]: Swazztastic moved too quickly! -2.1693991990791517,-9.667067244575918,2.8108821402600483
-[07:43:10] [Server thread/INFO]: Swazztastic lost connection: Disconnected
-[07:43:10] [Server thread/INFO]: Swazztastic left the game
-[07:44:30] [Server thread/INFO]: Stopping the server
-[07:44:30] [Server thread/INFO]: Stopping server
-[07:44:30] [Server thread/INFO]: Saving players
-[07:44:30] [Server thread/INFO]: Saving worlds
-[07:44:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[07:44:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:44:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[07:44:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:44:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[07:44:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:44:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:44:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:44:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:05:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25087, l='world', x=65.83, y=67.00, z=329.17]
+[00:05:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25087, l='world', x=65.83, y=67.00, z=329.17]
+[00:06:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25398, l='world', x=66.28, y=67.00, z=327.78]
+[00:07:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25659, l='world', x=66.20, y=67.00, z=327.70]
+[00:07:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25659, l='world', x=66.20, y=67.00, z=327.70]
+[00:37:06] [Server thread/INFO]: john lost connection: Disconnected
+[00:37:06] [Server thread/INFO]: john left the game
+[00:59:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/39054, l='world', x=65.83, y=67.00, z=328.38]
+[00:59:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/39054, l='world', x=65.83, y=67.00, z=328.38]
+[01:19:06] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42817, l='world', x=67.18, y=67.00, z=326.92]
+[01:19:06] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42817, l='world', x=67.18, y=67.00, z=326.92]
+[01:19:30] [Server thread/INFO]: Made Swazztastic a server operator
+[01:19:43] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[01:21:33] [Server thread/INFO]: Swazztastic has made the advancement [A Throwaway Joke]
+[01:22:51] [Server thread/INFO]: dairelle has made the advancement [A Throwaway Joke]
+[01:25:25] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[01:27:05] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[01:27:21] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[01:28:31] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[01:28:56] [Server thread/INFO]: [Swazztastic: Set own game mode to Spectator Mode]
+[01:28:56] [Server thread/INFO]: dairelle lost connection: Disconnected
+[01:28:56] [Server thread/INFO]: dairelle left the game
+[01:29:26] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[01:38:28] [Server thread/INFO]: [Swazztastic: Set the time to 13000]
+[01:42:17] [Server thread/INFO]: [Swazztastic: Gamerule doMobSpawning is now set to: true]
+[01:47:32] [Server thread/INFO]: [Swazztastic: Set the time to 13000]
+[01:50:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46710, l='world', x=65.83, y=67.00, z=327.26]
+[01:54:05] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[01:54:05] [Server thread/INFO]: Swazztastic left the game
+[01:54:11] [Server thread/INFO]: Swazztastic[/25.45.9.49:51526] logged in with entity id 47167 at (94.91201070979369, 179.0, 344.2241470887452)
+[01:54:11] [Server thread/INFO]: Swazztastic joined the game
+[01:55:32] [Server thread/INFO]: [Swazztastic: Set the time to 13000]
+[02:01:42] [Server thread/INFO]: [Swazztastic: Set own game mode to Spectator Mode]
+[02:02:26] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[02:02:32] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[02:02:52] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[02:07:36] [Server thread/INFO]: [Swazztastic: Set the time to 13000]
+[02:08:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/48477, l='world', x=66.70, y=67.00, z=328.16]
+[02:12:13] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[02:12:25] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[02:13:41] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[02:14:03] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[02:18:30] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[02:18:53] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[02:19:04] [Server thread/INFO]: [Swazztastic: Set the time to 13000]
+[02:28:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/51429, l='world', x=66.25, y=67.00, z=326.83]
+[02:32:21] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[02:32:21] [Server thread/INFO]: Swazztastic left the game
+[02:32:52] [Server thread/INFO]: Stopping the server
+[02:32:52] [Server thread/INFO]: Stopping server
+[02:32:52] [Server thread/INFO]: Saving players
+[02:32:52] [Server thread/INFO]: Saving worlds
+[02:32:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[02:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:32:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[02:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:32:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[02:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
