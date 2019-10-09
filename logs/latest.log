@@ -1,92 +1,170 @@
-[13:26:42] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:26:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:26:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:26:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:26:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:26:45] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[13:26:45] [Server thread/INFO]: Loading properties
-[13:26:45] [Server thread/INFO]: Default game type: SURVIVAL
-[13:26:45] [Server thread/INFO]: Generating keypair
-[13:26:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:26:45] [Server thread/INFO]: Using default channel type
-[13:26:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:26:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:26:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:26:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:26:45] [Server thread/INFO]: Preparing level "world"
-[13:26:45] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:26:46] [Server thread/INFO]: Loaded 6 recipes
-[13:26:46] [Server thread/INFO]: Loaded 811 advancements
-[13:26:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:26:47] [Server thread/INFO]: Preparing spawn area: 0%
-[13:26:47] [Server thread/INFO]: Preparing spawn area: 0%
-[13:26:47] [Server thread/INFO]: Preparing spawn area: 0%
-[13:26:48] [Server thread/INFO]: Preparing spawn area: 71%
-[13:26:48] [Server thread/INFO]: Time elapsed: 1606 ms
-[13:26:48] [Server thread/INFO]: Done (2.364s)! For help, type "help"
-[13:27:37] [Server thread/INFO]: Swazztastic[/25.45.9.49:49965] logged in with entity id 298 at (67.97868075638726, 84.0, 363.49838095318415)
-[13:27:37] [Server thread/INFO]: Swazztastic joined the game
-[13:29:57] [Server thread/INFO]: Swazztastic lost connection: Disconnected
-[13:29:57] [Server thread/INFO]: Swazztastic left the game
-[13:31:57] [Server thread/INFO]: Swazztastic[/25.45.9.49:50207] logged in with entity id 732 at (77.19349258657914, 84.0, 366.3443973593607)
-[13:31:57] [Server thread/INFO]: Swazztastic joined the game
-[13:33:20] [Server thread/INFO]: Swazztastic lost connection: Disconnected
-[13:33:20] [Server thread/INFO]: Swazztastic left the game
-[13:56:59] [Server thread/INFO]: Swazztastic[/25.45.9.49:50479] logged in with entity id 980 at (64.07581858402801, 84.0, 363.3079492454952)
-[13:56:59] [Server thread/INFO]: Swazztastic joined the game
-[14:05:17] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
-[14:05:40] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
-[14:10:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3077, l='world', x=66.68, y=67.00, z=327.55]
-[14:11:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3167, l='world', x=68.01, y=67.00, z=326.83]
-[14:12:34] [Server thread/INFO]: [Swazztastic: Set the time to 1000]
-[14:17:32] [Server thread/ERROR]: POI data mismatch: never registered at ew{x=1, y=66, z=385}
-[14:20:53] [Server thread/INFO]: [Swazztastic: Set own game mode to Spectator Mode]
-[14:21:08] [Server thread/INFO]: [Swazztastic: Set the time to 13000]
-[14:21:28] [Server thread/INFO]: [Swazztastic: Set the time to 1000]
-[14:22:03] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
-[14:22:30] [Server thread/INFO]: Swazztastic was slain by Iron Golem
-[14:22:41] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
-[14:23:00] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
-[14:23:38] [Server thread/INFO]: Swazztastic was slain by Iron Golem
-[14:23:46] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
-[14:24:29] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
-[14:26:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5341, l='world', x=66.26, y=67.00, z=327.69]
-[14:30:06] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5845, l='world', x=5.43, y=67.32, z=372.69]
-[14:30:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5886, l='world', x=68.04, y=67.00, z=327.23]
-[14:30:53] [Server thread/INFO]: [Swazztastic: Set the time to 1000]
-[14:45:07] [Server thread/INFO]: [Swazztastic: Set the time to 1000]
-[14:50:15] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
-[14:52:20] [Server thread/INFO]: [Swazztastic: Set the time to 1000]
-[14:52:44] [Server thread/INFO]: [Swazztastic: Set the time to 13000]
-[14:52:52] [Server thread/INFO]: [Swazztastic: Set the time to 1000]
-[15:00:21] [Server thread/INFO]: [Swazztastic: Set the time to 13000]
-[15:00:45] [Server thread/INFO]: [Swazztastic: Set the time to 1000]
-[15:07:47] [Server thread/INFO]: [Swazztastic: Set the time to 13000]
-[15:08:13] [Server thread/INFO]: [Swazztastic: Set the time to 1000]
-[15:13:15] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
-[15:17:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12751, l='world', x=5.74, y=67.32, z=379.51]
-[15:18:18] [Server thread/INFO]: Swazztastic lost connection: Disconnected
-[15:18:18] [Server thread/INFO]: Swazztastic left the game
-[19:09:27] [Server thread/INFO]: dairelle[/25.43.114.243:50217] logged in with entity id 12934 at (76.95698011722153, 81.0, 408.8340384601594)
-[19:09:27] [Server thread/INFO]: dairelle joined the game
-[19:18:33] [Server thread/INFO]: dairelle lost connection: Disconnected
-[19:18:33] [Server thread/INFO]: dairelle left the game
-[19:18:39] [Server thread/INFO]: dairelle[/25.43.114.243:50280] logged in with entity id 14425 at (68.48750001192093, 63.0, 436.23166935505697)
-[19:18:39] [Server thread/INFO]: dairelle joined the game
-[20:57:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/29430, l='world', x=11.43, y=68.32, z=383.60]
-[20:57:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/29433, l='world', x=14.51, y=68.32, z=383.72]
-[21:33:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35982, l='world', x=66.74, y=67.00, z=328.54]
-[22:22:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/43523, l='world', x=66.27, y=67.00, z=328.66]
-[22:53:41] [Server thread/INFO]: dairelle was burnt to a crisp whilst fighting Zombie
-[23:28:26] [Server thread/INFO]: Swazztastic[/25.45.9.49:50146] logged in with entity id 56684 at (63.936088237467104, 78.0, 368.44433923016743)
-[23:28:26] [Server thread/INFO]: Swazztastic joined the game
-[23:33:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/57830, l='world', x=67.12, y=67.00, z=328.20]
-[23:33:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/57830, l='world', x=67.12, y=67.00, z=328.20]
-[23:36:26] [Server thread/WARN]: Horse moved wrongly!
-[23:36:26] [Server thread/WARN]: Horse moved wrongly!
-[23:36:26] [Server thread/WARN]: Horse moved wrongly!
-[23:36:26] [Server thread/WARN]: Horse moved wrongly!
-[23:39:00] [Server thread/INFO]: Bellanca[/25.58.253.88:50706] logged in with entity id 59769 at (198.52863128793882, 8.755919598920357, 273.93642375513326)
-[23:39:00] [Server thread/INFO]: Bellanca joined the game
-[23:45:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/61176, l='world', x=66.73, y=67.00, z=327.23]
-[23:45:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/61176, l='world', x=66.73, y=67.00, z=327.23]
+[00:02:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/66038, l='world', x=66.16, y=67.00, z=328.64]
+[00:06:49] [Server thread/WARN]: Swazztastic moved too quickly! -0.41367368722720244,10.3721827088319,-0.19174918115993478
+[00:20:37] [Server thread/INFO]: Swazztastic was blown up by Creeper
+[00:22:27] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[00:23:01] [Server thread/INFO]: [Swazztastic: Set own game mode to Adventure Mode]
+[00:24:35] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[00:24:35] [Server thread/INFO]: Swazztastic left the game
+[00:24:41] [Server thread/INFO]: Swazztastic[/25.45.9.49:50422] logged in with entity id 70951 at (221.73175855363652, 30.0, 244.44984220279912)
+[00:24:41] [Server thread/INFO]: Swazztastic joined the game
+[00:24:57] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[00:29:19] [Server thread/INFO]: Swazztastic was shot by Skeleton
+[00:29:40] [Server thread/INFO]: dairelle was shot by Skeleton
+[00:32:50] [Server thread/INFO]: Bellanca has made the advancement [Cover Me With Diamonds]
+[01:01:16] [Server thread/INFO]: Bellanca lost connection: Disconnected
+[01:01:16] [Server thread/INFO]: Bellanca left the game
+[01:01:23] [Server thread/INFO]: Bellanca[/25.58.253.88:50913] logged in with entity id 78688 at (-100.21238983187075, 63.10075839112479, 299.14561490972994)
+[01:01:23] [Server thread/INFO]: Bellanca joined the game
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -3.313535223289364,5.0,-8.406860344075767
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -3.3810070021993397,5.0,-8.905369051954835
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -3.3151346529368766,5.0,-9.230228531134912
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -3.1793869359357814,5.0,-9.464685773365545
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -3.0073833560347794,5.0,-9.652610196535647
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -2.9153476698111263,5.0,-9.753164808565202
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -2.866101209106546,5.0,-9.806969576619508
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -2.8397504098520585,5.0,-9.83575943525409
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -2.8256506225491194,5.0,-9.851164314601533
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -2.8181061074828904,5.0,-9.859407158400245
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -2.8140691878923008,5.0,-9.863817739772344
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -2.8140691878923008,5.0,-9.863817739772344
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.3589229949739092,5.969693955115197,-7.893142621303696
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -2.8140691878923008,5.0,-9.863817739772344
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.1538327508842485,6.969693955115197,-8.30328108755657
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -2.901014625044809,5.0,-9.784969424637552
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 1.9533172427857153,6.969693955115197,-8.743023111160028
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -3.0189571830092063,5.0,-9.649635400935608
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 1.863001094021456,6.969693955115197,-9.21119296536449
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -3.13074926750096,5.0,-9.470419671824061
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 1.831650425298676,6.969693955115197,-9.694573984933754
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -3.2251660221788825,5.0,-9.262366667323363
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 1.8318510093013174,7.969693955115197,-10.186094195811847
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -3.5086091907837726,5.0,-9.095135571205788
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 1.848826711072661,7.969693955115197,-10.681969525681325
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -3.891116452699407,5.0,-8.941698865746389
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 1.8748857724026493,7.969693955115197,-11.180175192891397
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -4.325803100997518,5.0,-8.792727074333584
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 1.9058051583299402,7.969693955115197,-11.679627777150472
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -4.789475584768525,5.0,-8.754344963408812
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 1.9393252070449307,8.969693955115197,-12.179747561861632
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -5.2686973246647995,5.0,-8.774915621873674
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 1.9736339496564597,8.969693955115197,-12.680267523148927
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -5.756325352370368,5.0,-8.826543155243598
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 1.998617130811681,8.969693955115197,-13.181482350136548
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -6.248643485609136,5.0,-8.893679812127061
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.011985132936843,8.969693955115197,-13.449672410912058
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -6.743694653450575,5.0,-8.967783344817803
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.0191380843448314,8.969693955115197,-13.593175565300157
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -7.2404063267019865,5.0,-9.044392832264066
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.669961242069007
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -7.738143065457052,5.0,-9.121476158813266
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.711047726766765
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -8.236615383694698,5.0,-9.197589414121467
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.73303228555244
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -8.73564253994573,4.923167998504638,-9.272092655939105
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.744795784633766
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -9.025896026550754,4.772546541336993,-9.315311009863876
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.751090198453312
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -9.30797809818796,4.551057689562398,-9.357206293667218
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.754458213791054
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -9.582772901747148,4.261507790682643,-9.397921663502188
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.754458213791054
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -9.851068919446789,4.0,-9.437584786030015
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.754458213791054
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -10.287085809578457,4.0,-9.609586104174696
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.754458213791054
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -10.71714024890025,4.0,-9.838250324632554
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.754458213791054
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -11.144004299672133,4.0,-10.097233734381803
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.754458213791054
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -11.569239802927768,4.0,-10.372327135916521
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.754458213791054
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -11.993603902877112,4.0,-10.656040672856989
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.754458213791054
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -12.417645593976431,4.0,-10.944159018499704
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.754458213791054
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -12.84172363280004,4.0,-11.234331976072099
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.754458213791054
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -13.266107550948846,4.0,-11.525188113832883
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.754458213791054
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Swazztastic) moved too quickly! -13.691005463771717,4.0,-11.815898189865266
+[01:06:51] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 2.022965486028852,8.969693955115197,-13.754458213791054
+[01:06:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2932ms or 58 ticks behind
+[01:08:13] [Server thread/INFO]: dairelle lost connection: Disconnected
+[01:08:13] [Server thread/INFO]: dairelle left the game
+[01:08:19] [Server thread/INFO]: dairelle[/25.43.114.243:52837] logged in with entity id 82475 at (-1192.834508313438, 77.0, 634.2363922567389)
+[01:08:19] [Server thread/INFO]: dairelle joined the game
+[01:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2675ms or 53 ticks behind
+[01:16:56] [Server thread/WARN]: Bellanca moved too quickly! 2.695398129562818,-1.0,-9.636441166679674
+[01:16:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind
+[01:18:52] [Server thread/WARN]: Rapidash moved wrongly!
+[01:21:45] [Server thread/INFO]: dairelle lost connection: Disconnected
+[01:21:45] [Server thread/INFO]: dairelle left the game
+[01:21:51] [Server thread/INFO]: dairelle[/25.43.114.243:52941] logged in with entity id 85515 at (-930.9086811953226, 75.0, 501.90238861993544)
+[01:21:51] [Server thread/INFO]: dairelle joined the game
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 8.924924709494007,3.7246201255065046,3.5001418189972924
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 9.415844117152233,4.724620125506505,3.3948619328523364
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 9.906604369135152,4.724620125506505,3.2885508195092825
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 10.397279460089408,4.724620125506505,3.1816879170530115
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 10.890800256076318,4.724620125506505,3.1829754888457273
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 11.385843732089029,4.724620125506505,3.241443269126364
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 11.881701963824526,4.724620125506505,3.331195992913422
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 12.37510488210171,4.724620125506505,3.3292429406142787
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 12.867194011100992,4.724620125506505,3.2792649952929196
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 13.358580157651772,5.724620125506505,3.202544847882848
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 13.849590152310384,5.724620125506505,3.111515481317099
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 14.340398875591063,5.724620125506505,3.012829536876211
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 14.834629994834586,5.724620125506505,2.9304434062356677
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 15.332020815018495,5.724620125506505,2.9024204219756484
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 15.828417645490958,5.724620125506505,2.9261743925360975
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 16.32423413854599,5.724620125506505,2.977920126029119
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 16.81974010461977,5.647788124011143,3.0446436937718317
+[01:21:58] [Server thread/WARN]: Horse (vehicle of dairelle) moved too quickly! 17.107895911998185,5.497166666843498,3.084249690230422
+[01:21:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
+[01:34:47] [Server thread/INFO]: dairelle was shot by Skeleton
+[01:35:08] [Server thread/INFO]: dairelle lost connection: Disconnected
+[01:35:08] [Server thread/INFO]: dairelle left the game
+[01:40:25] [Server thread/INFO]: Swazztastic fell from a high place
+[01:41:05] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[01:42:01] [Server thread/WARN]: Swazztastic moved too quickly! -9.84054213327778,0.0,3.189252025393671
+[01:42:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2236ms or 44 ticks behind
+[01:44:15] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[01:44:20] [Server thread/INFO]: Swazztastic fell from a high place
+[01:44:27] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[01:45:54] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[01:47:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01:56:37] [Server thread/INFO]: Swazztastic has made the advancement [We Need to Go Deeper]
+[01:56:50] [Server thread/INFO]: Bellanca has made the advancement [We Need to Go Deeper]
+[02:07:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13521ms or 270 ticks behind
+[02:08:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/98345, l='world', x=67.75, y=67.00, z=327.13]
+[02:14:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/99430, l='world', x=67.17, y=67.00, z=328.78]
+[02:14:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/99430, l='world', x=67.17, y=67.00, z=328.78]
+[02:17:48] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/100159, l='world', x=66.43, y=67.00, z=328.23]
+[02:18:18] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[02:21:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[02:22:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2403ms or 48 ticks behind
+[02:23:23] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[02:25:49] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[02:28:07] [Server thread/WARN]: Keeping entity minecraft:skeleton that already exists with UUID 3eb788d7-0104-47bc-bcae-488d3ee78755
+[02:29:30] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[02:30:29] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[02:31:30] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[02:58:06] [Server thread/INFO]: [Swazztastic: Set the weather to rain & thunder]
+[03:00:26] [Server thread/INFO]: Bellanca has made the advancement [A Throwaway Joke]
+[03:02:12] [Server thread/INFO]: Swazztastic fell from a high place
+[03:04:28] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[03:04:28] [Server thread/INFO]: Swazztastic left the game
+[03:04:29] [Server thread/INFO]: Bellanca lost connection: Disconnected
+[03:04:29] [Server thread/INFO]: Bellanca left the game
+[03:04:45] [Server thread/INFO]: Stopping the server
+[03:04:45] [Server thread/INFO]: Stopping server
+[03:04:45] [Server thread/INFO]: Saving players
+[03:04:45] [Server thread/INFO]: Saving worlds
+[03:04:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[03:04:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:04:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[03:04:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:04:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[03:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
