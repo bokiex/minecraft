@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2019-10-12 15:23:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-09-24 23:59:21 +0800"
@@ -104,6 +110,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2019-09-24 23:32:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-10-12 16:53:37 +0800"
     },
     "done": true
   },
@@ -521,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2019-10-12 15:37:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-09-24 23:13:20 +0800"
@@ -602,6 +620,7 @@
       "minecraft:ravager": "2019-09-27 23:53:03 +0800",
       "minecraft:ghast": "2019-10-05 02:31:03 +0800",
       "minecraft:vindicator": "2019-09-27 23:49:51 +0800",
+      "minecraft:magma_cube": "2019-10-12 15:19:05 +0800",
       "minecraft:spider": "2019-09-25 23:18:18 +0800",
       "minecraft:creeper": "2019-09-26 23:22:57 +0800",
       "minecraft:phantom": "2019-10-03 17:32:26 +0800",
@@ -613,6 +632,12 @@
       "minecraft:zombie_villager": "2019-09-29 01:01:17 +0800"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2019-10-12 15:37:18 +0800"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -716,15 +741,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2019-10-12 15:37:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-09-26 23:28:27 +0800"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2019-10-12 15:37:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2019-10-04 17:50:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-10-12 15:23:04 +0800"
     },
     "done": true
   },
@@ -890,6 +933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-10-12 15:23:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-09-25 23:17:05 +0800"
@@ -899,6 +948,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2019-09-26 00:26:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2019-10-12 15:37:18 +0800"
     },
     "done": true
   },
@@ -1004,6 +1059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2019-10-12 15:37:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-09-25 00:17:17 +0800"
@@ -1019,6 +1080,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2019-09-24 23:40:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2019-10-12 15:37:18 +0800"
     },
     "done": true
   },
@@ -1130,6 +1197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-10-12 15:23:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2019-09-25 00:07:08 +0800"
@@ -1183,6 +1256,7 @@
       "minecraft:cold_ocean": "2019-09-26 00:55:55 +0800",
       "minecraft:forest": "2019-09-24 22:38:42 +0800",
       "minecraft:mushroom_fields": "2019-10-04 21:46:17 +0800",
+      "minecraft:mountains": "2019-10-12 15:18:01 +0800",
       "minecraft:desert_hills": "2019-09-25 23:32:12 +0800",
       "minecraft:deep_cold_ocean": "2019-09-27 22:04:43 +0800",
       "minecraft:desert": "2019-09-24 23:45:39 +0800",
@@ -1193,6 +1267,7 @@
       "minecraft:beach": "2019-09-24 23:32:43 +0800",
       "minecraft:river": "2019-09-24 22:36:17 +0800",
       "minecraft:lukewarm_ocean": "2019-10-04 21:08:33 +0800",
+      "minecraft:wooded_mountains": "2019-10-12 15:16:45 +0800",
       "minecraft:wooded_hills": "2019-09-24 22:36:34 +0800",
       "minecraft:stone_shore": "2019-10-04 21:17:17 +0800",
       "minecraft:mushroom_field_shore": "2019-10-04 21:45:56 +0800",
@@ -1489,6 +1564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2019-10-12 15:37:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2019-09-27 22:36:57 +0800"
@@ -1639,6 +1720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2019-10-12 15:23:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-09-27 21:03:17 +0800"
@@ -1726,6 +1813,18 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2019-09-25 00:17:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2019-10-12 16:52:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2019-10-12 15:37:18 +0800"
     },
     "done": true
   },
@@ -2016,6 +2115,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-09-24 23:59:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2019-10-12 16:52:27 +0800"
     },
     "done": true
   },
@@ -2751,6 +2856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2019-10-12 15:23:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2019-09-25 23:07:22 +0800"
@@ -2823,6 +2934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2019-10-12 16:53:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-09-24 23:13:20 +0800"
@@ -2832,6 +2949,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-09-25 00:01:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2019-10-12 15:23:04 +0800"
     },
     "done": true
   },
