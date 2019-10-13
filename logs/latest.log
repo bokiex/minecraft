@@ -61,3 +61,56 @@
 [21:53:12] [Server thread/WARN]: Horse (vehicle of Bellanca) moved too quickly! 5.592020432485015,1.4489423104376087,10.626849137086992
 [21:58:12] [Server thread/WARN]: Swazztastic moved too quickly! -8.103375500853417,0.2277792520400368,6.129837549900003
 [21:58:12] [Server thread/WARN]: john moved too quickly! -2.4000248238112363,1.0244240882136921,-9.879726740321757
+[21:59:52] [Server thread/INFO]: Swazztastic has made the advancement [Withering Heights]
+[21:59:52] [Server thread/INFO]: john has made the advancement [Withering Heights]
+[21:59:52] [Server thread/INFO]: Bellanca has made the advancement [Withering Heights]
+[22:00:06] [Server thread/WARN]: Fetching packet for removed entity atx['Feather'/4300, l='world', x=2066.81, y=69.00, z=1440.50]
+[22:00:06] [Server thread/WARN]: Fetching packet for removed entity atx['Feather'/4300, l='world', x=2066.81, y=69.00, z=1440.50]
+[22:00:06] [Server thread/WARN]: Fetching packet for removed entity atx['Feather'/4300, l='world', x=2066.81, y=69.00, z=1440.50]
+[22:00:06] [Server thread/WARN]: Fetching packet for removed entity atx['Raw Chicken'/4301, l='world', x=2066.81, y=69.00, z=1440.50]
+[22:00:06] [Server thread/WARN]: Fetching packet for removed entity atx['Raw Chicken'/4301, l='world', x=2066.81, y=69.00, z=1440.50]
+[22:00:06] [Server thread/WARN]: Fetching packet for removed entity atx['Raw Chicken'/4301, l='world', x=2066.81, y=69.00, z=1440.50]
+[22:00:06] [Server thread/WARN]: Fetching packet for removed entity atx['Wither Rose'/4302, l='world', x=2066.81, y=69.00, z=1440.50]
+[22:00:06] [Server thread/WARN]: Fetching packet for removed entity atx['Wither Rose'/4302, l='world', x=2066.81, y=69.00, z=1440.50]
+[22:00:06] [Server thread/WARN]: Fetching packet for removed entity atx['Wither Rose'/4302, l='world', x=2066.81, y=69.00, z=1440.50]
+[22:08:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[22:14:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/9159, l='world', x=66.93, y=67.00, z=327.61]
+[22:14:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/9159, l='world', x=66.93, y=67.00, z=327.61]
+[22:14:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/9159, l='world', x=66.93, y=67.00, z=327.61]
+[22:16:31] [Server thread/WARN]: Fetching packet for removed entity axh['Trident'/9542, l='world', x=67.55, y=86.17, z=376.70]
+[22:16:31] [Server thread/WARN]: Fetching packet for removed entity axh['Trident'/9542, l='world', x=67.55, y=86.17, z=376.70]
+[22:16:38] [Server thread/WARN]: Fetching packet for removed entity axh['Trident'/9551, l='world', x=68.25, y=86.14, z=376.69]
+[22:20:18] [Server thread/INFO]: Bellanca has made the advancement [Bring Home the Beacon]
+[22:20:18] [Server thread/INFO]: john has made the advancement [Bring Home the Beacon]
+[22:20:18] [Server thread/INFO]: Swazztastic has made the advancement [Bring Home the Beacon]
+[22:20:58] [Server thread/WARN]: Le Champion moved wrongly!
+[22:20:58] [Server thread/WARN]: Le Champion moved wrongly!
+[22:21:32] [Server thread/WARN]: Le Champion moved wrongly!
+[22:21:32] [Server thread/WARN]: Le Champion moved wrongly!
+[22:21:32] [Server thread/WARN]: Le Champion moved wrongly!
+[22:25:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/11359, l='world', x=67.08, y=67.00, z=328.73]
+[22:31:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12749, l='world', x=68.17, y=67.00, z=327.89]
+[22:33:43] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/13425, l='world', x=68.16, y=67.00, z=328.45]
+[22:33:43] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/13425, l='world', x=68.16, y=67.00, z=328.45]
+[22:45:45] [Server thread/INFO]: Bellanca lost connection: Disconnected
+[22:45:45] [Server thread/INFO]: Bellanca left the game
+[22:50:19] [Server thread/WARN]: Swazztastic moved wrongly!
+[22:55:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/17588, l='world', x=67.01, y=67.00, z=328.59]
+[22:55:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/17588, l='world', x=67.01, y=67.00, z=328.59]
+[23:00:35] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[23:00:35] [Server thread/INFO]: Swazztastic left the game
+[23:08:09] [Server thread/INFO]: john lost connection: Disconnected
+[23:08:09] [Server thread/INFO]: john left the game
+[23:33:59] [Server thread/INFO]: Stopping the server
+[23:33:59] [Server thread/INFO]: Stopping server
+[23:33:59] [Server thread/INFO]: Saving players
+[23:33:59] [Server thread/INFO]: Saving worlds
+[23:33:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:33:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:33:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:34:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:34:00] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:34:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:34:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:34:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:34:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved

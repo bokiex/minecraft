@@ -895,6 +895,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2019-10-13 22:20:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2019-10-13 18:28:07 +0800"
@@ -1716,6 +1722,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2019-10-13 21:59:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2019-10-08 01:19:15 +0800"
@@ -1748,6 +1760,7 @@
       "apple": "2019-10-09 00:51:03 +0800",
       "cooked_cod": "2019-10-07 22:58:27 +0800",
       "bread": "2019-10-10 00:28:31 +0800",
+      "golden_apple": "2019-10-13 22:01:34 +0800",
       "salmon": "2019-10-07 20:05:34 +0800",
       "cooked_salmon": "2019-10-07 18:30:00 +0800"
     },
