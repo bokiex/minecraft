@@ -1,53 +1,200 @@
-[14:17:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:17:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:17:35] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:17:35] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:17:38] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[14:17:38] [Server thread/INFO]: Loading properties
-[14:17:38] [Server thread/INFO]: Default game type: SURVIVAL
-[14:17:38] [Server thread/INFO]: Generating keypair
-[14:17:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:17:39] [Server thread/INFO]: Using default channel type
-[14:17:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:17:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:17:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:17:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:17:39] [Server thread/INFO]: Preparing level "world"
-[14:17:39] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:17:40] [Server thread/INFO]: Loaded 6 recipes
-[14:17:40] [Server thread/INFO]: Loaded 811 advancements
-[14:17:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:17:42] [Server thread/INFO]: Preparing spawn area: 0%
-[14:17:42] [Server thread/INFO]: Preparing spawn area: 0%
-[14:17:42] [Server thread/INFO]: Preparing spawn area: 0%
-[14:17:42] [Server thread/INFO]: Preparing spawn area: 0%
-[14:17:42] [Server thread/INFO]: Preparing spawn area: 0%
-[14:17:43] [Server thread/INFO]: Time elapsed: 2414 ms
-[14:17:43] [Server thread/INFO]: Done (3.571s)! For help, type "help"
-[14:19:33] [Server thread/INFO]: Swazztastic[/25.45.9.49:50732] logged in with entity id 253 at (67.01377929775781, 84.0, 364.44830444188733)
-[14:19:33] [Server thread/INFO]: Swazztastic joined the game
-[14:21:57] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1028, l='world', x=7.62, y=68.32, z=401.93]
-[14:21:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1031, l='world', x=7.62, y=68.32, z=401.93]
-[14:21:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1038, l='world', x=7.62, y=68.32, z=401.93]
-[14:22:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1042, l='world', x=7.62, y=68.32, z=401.93]
-[14:22:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1046, l='world', x=7.62, y=68.32, z=401.93]
-[14:22:44] [Server thread/WARN]: Swazztastic moved too quickly! -3.9959127666746497,-6.964159374955443,5.996641369240649
-[14:24:43] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
-[14:27:44] [Server thread/WARN]: Swazztastic moved too quickly! 3.4710815975270464,0.0,-9.514348735857538
-[14:32:46] [Server thread/WARN]: Swazztastic moved too quickly! 4.809671922085812,-0.2957889150997772,-9.034494894889463
-[14:43:46] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
-[14:45:26] [Server thread/INFO]: Swazztastic lost connection: Disconnected
-[14:45:26] [Server thread/INFO]: Swazztastic left the game
-[16:06:25] [Server thread/INFO]: Stopping the server
-[16:06:25] [Server thread/INFO]: Stopping server
-[16:06:25] [Server thread/INFO]: Saving players
-[16:06:25] [Server thread/INFO]: Saving worlds
-[16:06:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[16:06:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:06:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[16:06:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:06:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[16:06:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:06:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:06:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:06:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:18:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:18:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:18:22] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:18:22] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:18:25] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[00:18:25] [Server thread/INFO]: Loading properties
+[00:18:25] [Server thread/INFO]: Default game type: SURVIVAL
+[00:18:25] [Server thread/INFO]: Generating keypair
+[00:18:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:18:26] [Server thread/INFO]: Using default channel type
+[00:18:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:18:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:18:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:18:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:18:26] [Server thread/INFO]: Preparing level "world"
+[00:18:26] [Server thread/INFO]: Reloading ResourceManager: Default
+[00:18:27] [Server thread/INFO]: Loaded 6 recipes
+[00:18:27] [Server thread/INFO]: Loaded 811 advancements
+[00:18:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:18:28] [Server thread/INFO]: Preparing spawn area: 0%
+[00:18:28] [Server thread/INFO]: Preparing spawn area: 0%
+[00:18:28] [Server thread/INFO]: Preparing spawn area: 0%
+[00:18:29] [Server thread/INFO]: Time elapsed: 1545 ms
+[00:18:29] [Server thread/INFO]: Done (2.283s)! For help, type "help"
+[00:27:22] [Server thread/INFO]: Swazztastic[/25.45.9.49:50274] logged in with entity id 296 at (65.41310476588653, 84.0, 365.26172074475375)
+[00:27:22] [Server thread/INFO]: Swazztastic joined the game
+[00:33:01] [Server thread/INFO]: Swazztastic has made the advancement [Hot Stuff]
+[00:43:55] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[00:44:35] [Server thread/INFO]: [Swazztastic: Set own game mode to Spectator Mode]
+[00:44:39] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[00:45:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3221, l='world', x=67.04, y=67.00, z=328.17]
+[00:46:22] [Server thread/INFO]: john[/25.65.169.70:51404] logged in with entity id 3301 at (82.89806351483492, 176.0, 293.83689858866944)
+[00:46:22] [Server thread/INFO]: john joined the game
+[00:46:39] [Server thread/INFO]: <john> lETS GET ITTTTTTTTTTTTTTT
+[00:46:41] [Server thread/INFO]: <Swazztastic> did it work
+[00:46:42] [Server thread/INFO]: <Swazztastic> nice
+[00:48:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3630, l='world', x=66.31, y=67.00, z=328.58]
+[00:48:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3630, l='world', x=66.31, y=67.00, z=328.58]
+[00:50:08] [Server thread/INFO]: <Swazztastic> we need to collect ender pearls
+[00:50:12] [Server thread/INFO]: <Swazztastic> and whose house are you at anuyways
+[00:50:18] [Server thread/INFO]: <john> jen
+[00:50:26] [Server thread/INFO]: <Swazztastic> no idea who that is
+[00:50:32] [Server thread/INFO]: <john> ur mom
+[00:50:52] [Server thread/INFO]: <Swazztastic> ooo
+[00:51:42] [Server thread/INFO]: <john> ok
+[00:51:44] [Server thread/INFO]: <john> do wat
+[00:52:01] [Server thread/INFO]: <Swazztastic> kill endermen
+[00:52:43] [Server thread/INFO]: <john> lets go
+[00:53:00] [Server thread/INFO]: <Swazztastic> hehe sun just came up
+[00:53:19] [Server thread/WARN]: john moved too quickly! -9.931176339751104,0.604424101326714,-2.3624800284456455
+[00:57:16] [Server thread/INFO]: <Swazztastic> why are you even there anyways
+[00:58:17] [Server thread/INFO]: <Swazztastic> oy
+[00:58:21] [Server thread/INFO]: <Swazztastic> wyd
+[00:58:23] [Server thread/INFO]: john has reached the goal [Postmortal]
+[00:58:38] [Server thread/INFO]: <john> oops
+[00:58:39] [Server thread/INFO]: <Swazztastic> LOL
+[00:58:41] [Server thread/INFO]: <john> wasnt looking
+[00:58:42] [Server thread/INFO]: <john> LOL
+[00:58:45] [Server thread/INFO]: <Swazztastic> rip totem
+[00:58:48] [Server thread/INFO]: <Swazztastic> wasted
+[01:00:58] [Server thread/INFO]: Swazztastic has made the advancement [Enchanter]
+[01:02:31] [Server thread/WARN]: Horse moved wrongly!
+[01:02:31] [Server thread/WARN]: Horse moved wrongly!
+[01:02:31] [Server thread/WARN]: Horse moved wrongly!
+[01:02:31] [Server thread/WARN]: Horse moved wrongly!
+[01:02:31] [Server thread/WARN]: Horse moved wrongly!
+[01:02:38] [Server thread/INFO]: <john> so...
+[01:02:43] [Server thread/INFO]: <john> is there a way to find endermen
+[01:02:44] [Server thread/INFO]: <john> properly
+[01:02:49] [Server thread/INFO]: <Swazztastic> only at night
+[01:02:56] [Server thread/INFO]: <john> dat succs
+[01:02:59] [Server thread/INFO]: <Swazztastic> that's why it takes a while to get the enderpearls
+[01:03:13] [Server thread/INFO]: <Swazztastic> and then we also need blaze rods
+[01:03:19] [Server thread/INFO]: <Swazztastic> to make blaze powder
+[01:03:27] [Server thread/INFO]: <Swazztastic> which combines with the enderpearls to give eyes of ender
+[01:03:29] [Server thread/INFO]: <john> its in the room
+[01:03:45] [Server thread/INFO]: <Swazztastic> we'll need to make like 30 eyes of enders
+[01:03:53] [Server thread/INFO]: <john> wat
+[01:04:06] [Server thread/INFO]: <Swazztastic> so that's 15 blaze rods and 30 enderpearls
+[01:04:17] [Server thread/INFO]: <Swazztastic> if we run out halfway then what
+[01:04:23] [Server thread/INFO]: <Swazztastic> we're stuck
+[01:04:37] [Server thread/INFO]: <Swazztastic> we can't run out
+[01:06:53] [Server thread/INFO]: <Swazztastic> use your shield to block
+[01:07:03] [Server thread/INFO]: <john> got bird
+[01:07:38] [Server thread/INFO]: <Swazztastic> where you
+[01:07:40] [Server thread/INFO]: <Swazztastic> endermen
+[01:11:49] [Server thread/INFO]: <Swazztastic> oh wait
+[01:11:50] [Server thread/INFO]: <Swazztastic> john
+[01:11:52] [Server thread/INFO]: <Swazztastic> john
+[01:11:54] [Server thread/INFO]: <john> wt
+[01:12:02] [Server thread/INFO]: <Swazztastic> one of the villagers sells enderpearls
+[01:12:06] [Server thread/INFO]: <Swazztastic> 1 for 5 gems
+[01:12:08] [Server thread/INFO]: <Swazztastic> emeralds
+[01:13:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[01:15:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/9854, l='world', x=66.04, y=67.00, z=326.83]
+[01:15:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/9854, l='world', x=66.04, y=67.00, z=326.83]
+[01:16:14] [Server thread/INFO]: <john> can we play tmr
+[01:17:14] [Server thread/INFO]: <Swazztastic> sure
+[01:17:33] [Server thread/INFO]: <john> why the beacon
+[01:17:34] [Server thread/INFO]: <john> buff
+[01:17:35] [Server thread/INFO]: <john> disappear
+[01:17:49] [Server thread/INFO]: <Swazztastic> you ran out of reach?
+[01:17:55] [Server thread/INFO]: <john> no i went to check the beacon
+[01:17:57] [Server thread/INFO]: <john> it was off
+[01:18:16] [Server thread/INFO]: <Swazztastic> no idea
+[01:18:24] [Server thread/INFO]: <john> i dont think i can fight here
+[01:18:27] [Server thread/INFO]: <john> its quite laggy for me
+[01:18:36] [Server thread/INFO]: <john> almost died to the enderman jn
+[01:19:01] [Server thread/INFO]: <Swazztastic> ogay
+[01:19:13] [Server thread/INFO]: <Swazztastic> i wanna make a big map
+[01:19:26] [Server thread/INFO]: <john> so you gonna go explore ah
+[01:19:40] [Server thread/INFO]: <Swazztastic> mmm
+[01:19:44] [Server thread/INFO]: <Swazztastic> see how i'm not sure
+[01:19:44] [Server thread/INFO]: <john> ok
+[01:19:49] [Server thread/INFO]: <Swazztastic> i borrowed bella's switch
+[01:20:04] [Server thread/INFO]: <john> huh
+[01:20:04] [Server thread/INFO]: <Swazztastic> i managed to beat the level 9 computer
+[01:20:05] [Server thread/INFO]: <john> for what
+[01:20:07] [Server thread/INFO]: <john> oh shit
+[01:20:08] [Server thread/INFO]: <john> nice
+[01:20:09] [Server thread/INFO]: <john> gj
+[01:20:15] [Server thread/INFO]: <john> i cant beat it consistently
+[01:20:15] [Server thread/INFO]: <Swazztastic> i'm gonna beat that daniel goh
+[01:20:25] [Server thread/INFO]: <Swazztastic> but only with greninja
+[01:20:33] [Server thread/INFO]: <john> ya your greninja is p good
+[01:20:38] [Server thread/INFO]: <Swazztastic> i'm trying to play inkling
+[01:20:40] [Server thread/INFO]: <Swazztastic> hard af though
+[01:20:48] [Server thread/INFO]: <john> daniel goh's playstyle is like
+[01:20:50] [Server thread/INFO]: <john> read heavy
+[01:21:00] [Server thread/INFO]: <john> just dont do the same things you'd beat him
+[01:21:15] [Server thread/INFO]: <john> if he dont get your playstyle he cant beat u
+[01:21:16] [Server thread/INFO]: <Swazztastic> big gay
+[01:21:36] [Server thread/INFO]: <john> you got the 1 week free trial for switch online
+[01:21:40] [Server thread/INFO]: <john> sooooooooooooooooooooooooooooooooooooooooooooooooooooo
+[01:21:43] [Server thread/INFO]: <Swazztastic> nah
+[01:21:46] [Server thread/INFO]: <john> ok
+[01:21:51] [Server thread/INFO]: <john> imma head out
+[01:21:53] [Server thread/INFO]: <john> LOL
+[01:21:54] [Server thread/INFO]: <Swazztastic> i'm only bringing it for the tournament thing
+[01:21:57] [Server thread/INFO]: <john> wat
+[01:21:59] [Server thread/INFO]: <john> dont need bring ah
+[01:22:02] [Server thread/INFO]: <john> we got enough controllers
+[01:22:07] [Server thread/INFO]: <Swazztastic> i wanna use 2 controllers
+[01:22:09] [Server thread/INFO]: <john> ya
+[01:22:14] [Server thread/INFO]: <Swazztastic> can't go back to using only one now
+[01:22:14] [Server thread/INFO]: <john> we playing tourney what
+[01:22:16] [Server thread/INFO]: <john> means only
+[01:22:17] [Server thread/INFO]: <john> uh
+[01:22:19] [Server thread/INFO]: <Swazztastic> 4
+[01:22:23] [Server thread/INFO]: <Swazztastic> 2 each
+[01:22:23] [Server thread/INFO]: <john> 2 people playing at once
+[01:22:34] [Server thread/INFO]: <john> the other probably for fun
+[01:22:40] [Server thread/INFO]: <john> idt got enough people to play losers bracket
+[01:22:49] [Server thread/INFO]: <Swazztastic> feelsbad
+[01:23:15] [Server thread/INFO]: <Swazztastic> okay bye
+[01:23:20] [Server thread/INFO]: <Swazztastic> wait
+[01:23:26] [Server thread/INFO]: <Swazztastic> why are you at jen's house again?
+[01:25:02] [Server thread/INFO]: <john> no idea
+[01:25:04] [Server thread/INFO]: <john> sleepover
+[01:25:06] [Server thread/INFO]: <Swazztastic> tf
+[01:25:06] [Server thread/INFO]: <john> cool
+[01:25:11] [Server thread/INFO]: <Swazztastic> with who
+[01:25:14] [Server thread/INFO]: <john> gareth
+[01:25:17] [Server thread/INFO]: <john> we watched joker
+[01:25:30] [Server thread/INFO]: <Swazztastic> you're third wheeling hard
+[01:25:33] [Server thread/INFO]: <john> ok
+[01:25:34] [Server thread/INFO]: <john> wat
+[01:25:38] [Server thread/INFO]: <john> we're all guys
+[01:25:43] [Server thread/INFO]: <Swazztastic> wait
+[01:25:45] [Server thread/INFO]: <Swazztastic> jen's a dude
+[01:25:47] [Server thread/INFO]: <Swazztastic> HAHAHHAA
+[01:25:48] [Server thread/INFO]: <john> yes
+[01:25:51] [Server thread/INFO]: <john> hes offended
+[01:25:55] [Server thread/INFO]: <Swazztastic> OOF
+[01:25:59] [Server thread/INFO]: <Swazztastic> sorry dude
+[01:26:04] [Server thread/INFO]: <Swazztastic> first jen i know that's a dude
+[01:26:15] [Server thread/INFO]: <john> manliest dude you'll see
+[01:26:34] [Server thread/INFO]: <Swazztastic> chad
+[01:26:42] [Server thread/INFO]: <john> ok im tired as fuck
+[01:26:44] [Server thread/INFO]: <john> good night
+[01:26:48] [Server thread/INFO]: <Swazztastic> good night
+[01:26:50] [Server thread/INFO]: john lost connection: Disconnected
+[01:26:50] [Server thread/INFO]: john left the game
+[01:27:06] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[01:30:28] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[01:30:43] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[01:30:43] [Server thread/INFO]: Swazztastic left the game
+[01:59:57] [Server thread/INFO]: Stopping the server
+[01:59:57] [Server thread/INFO]: Stopping server
+[01:59:57] [Server thread/INFO]: Saving players
+[01:59:57] [Server thread/INFO]: Saving worlds
+[01:59:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:59:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:59:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:59:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:59:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:59:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:59:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:59:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:59:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
