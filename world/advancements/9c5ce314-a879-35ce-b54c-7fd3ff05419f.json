@@ -539,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2019-10-22 23:18:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2019-09-27 22:19:47 +0800"
@@ -2147,6 +2153,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2019-10-03 22:45:27 +0800",
+      "minecraft:turtle": "2019-10-22 23:31:53 +0800",
       "minecraft:sheep": "2019-10-04 17:49:27 +0800",
       "minecraft:cow": "2019-10-03 23:30:20 +0800",
       "minecraft:chicken": "2019-10-02 00:22:11 +0800",
@@ -2406,6 +2413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2019-10-22 23:34:03 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-09-27 21:03:17 +0800"
@@ -2445,6 +2458,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-09-25 00:01:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2019-10-22 23:34:03 +0800"
     },
     "done": true
   },
