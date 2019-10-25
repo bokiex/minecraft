@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2019-10-25 16:21:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2019-10-06 21:02:55 +0800"
@@ -434,6 +440,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2019-10-20 13:53:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2019-10-25 16:20:02 +0800"
     },
     "done": true
   },
@@ -1580,6 +1592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-10-25 22:52:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-10-06 20:54:31 +0800"
@@ -1649,6 +1667,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2019-10-12 18:53:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2019-10-25 16:20:31 +0800"
     },
     "done": true
   },
@@ -2113,6 +2137,7 @@
       "cooked_porkchop": "2019-10-07 13:43:58 +0800",
       "cooked_mutton": "2019-10-13 04:45:39 +0800",
       "cooked_beef": "2019-10-06 20:58:47 +0800",
+      "chorus_fruit": "2019-10-25 16:32:17 +0800",
       "apple": "2019-10-09 00:51:03 +0800",
       "cooked_cod": "2019-10-07 22:58:27 +0800",
       "bread": "2019-10-10 00:28:31 +0800",
@@ -2203,6 +2228,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2019-10-12 14:56:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2019-10-25 16:20:02 +0800"
     },
     "done": true
   },
@@ -3109,6 +3140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2019-10-25 16:20:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2019-10-12 17:08:24 +0800"
@@ -3465,7 +3502,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/tabby.png": "2019-10-12 20:40:48 +0800"
+      "textures/entity/cat/tabby.png": "2019-10-12 20:40:48 +0800",
+      "textures/entity/cat/jellie.png": "2019-10-25 19:57:20 +0800"
     },
     "done": false
   },
