@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2019-10-27 14:26:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-10-05 02:41:15 +0800"
@@ -755,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2019-10-27 14:24:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-10-07 14:12:17 +0800"
@@ -849,6 +861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2019-10-27 14:22:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2019-10-05 20:16:55 +0800"
@@ -888,6 +906,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-10-13 00:24:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2019-10-27 14:26:41 +0800"
     },
     "done": true
   },
@@ -1056,6 +1080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-10-27 14:24:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2019-10-23 21:59:34 +0800"
@@ -1155,6 +1185,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2019-10-10 01:52:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2019-10-27 13:47:03 +0800"
     },
     "done": true
   },
@@ -1263,6 +1299,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2019-10-05 01:45:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2019-10-27 13:47:03 +0800"
     },
     "done": true
   },
@@ -1520,7 +1562,10 @@
       "minecraft:taiga_hills": "2019-10-21 21:15:38 +0800",
       "minecraft:desert": "2019-10-05 02:04:37 +0800",
       "minecraft:deep_frozen_ocean": "2019-10-07 15:29:01 +0800",
+      "minecraft:jungle": "2019-10-27 13:46:21 +0800",
       "minecraft:birch_forest": "2019-10-12 23:14:32 +0800",
+      "minecraft:jungle_hills": "2019-10-27 13:49:10 +0800",
+      "minecraft:bamboo_jungle": "2019-10-27 13:49:41 +0800",
       "minecraft:warm_ocean": "2019-10-22 22:01:53 +0800",
       "minecraft:deep_lukewarm_ocean": "2019-10-22 22:05:44 +0800",
       "minecraft:beach": "2019-10-05 01:56:20 +0800",
@@ -1529,6 +1574,7 @@
       "minecraft:lukewarm_ocean": "2019-10-22 22:01:34 +0800",
       "minecraft:birch_forest_hills": "2019-10-12 23:14:55 +0800",
       "minecraft:wooded_mountains": "2019-10-10 01:21:38 +0800",
+      "minecraft:bamboo_jungle_hills": "2019-10-27 13:51:58 +0800",
       "minecraft:wooded_hills": "2019-10-05 01:57:09 +0800",
       "minecraft:stone_shore": "2019-10-10 01:50:53 +0800",
       "minecraft:mushroom_field_shore": "2019-10-05 17:16:02 +0800",
@@ -1694,6 +1740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2019-10-27 14:26:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2019-10-07 19:44:48 +0800"
@@ -1784,6 +1836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2019-10-27 13:48:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_at_least_9_diamond": "2019-10-07 19:44:48 +0800"
@@ -1871,6 +1929,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-10-05 02:41:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2019-10-27 13:48:02 +0800"
     },
     "done": true
   },
@@ -2132,6 +2196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-10-27 15:29:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2019-10-20 16:30:05 +0800"
@@ -2273,6 +2343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-10-27 14:24:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2019-10-12 14:30:58 +0800"
@@ -2282,6 +2358,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-10-05 01:45:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2019-10-27 14:24:14 +0800"
     },
     "done": true
   },
@@ -3224,6 +3306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2019-10-27 14:24:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2019-10-13 00:15:40 +0800"
@@ -3353,6 +3441,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-10-13 18:36:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2019-10-27 14:24:14 +0800"
     },
     "done": true
   },
@@ -3525,6 +3619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2019-10-27 14:24:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2019-10-23 21:59:55 +0800"
@@ -3573,6 +3673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2019-10-27 14:24:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2019-10-13 19:26:49 +0800"
@@ -3606,6 +3712,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2019-10-07 16:08:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-10-27 14:24:14 +0800"
     },
     "done": true
   },
@@ -3738,6 +3850,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-10-23 21:54:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-10-27 15:29:40 +0800"
     },
     "done": true
   },
