@@ -1837,6 +1837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_at_least_9_dried_kelp": "2019-10-29 21:08:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-10-01 01:21:17 +0800"
@@ -2405,6 +2411,7 @@
       "cooked_cod": "2019-09-30 22:09:12 +0800",
       "bread": "2019-10-01 02:44:42 +0800",
       "cookie": "2019-10-23 22:06:02 +0800",
+      "dried_kelp": "2019-10-29 21:09:15 +0800",
       "cooked_rabbit": "2019-10-02 03:09:03 +0800",
       "cooked_chicken": "2019-10-02 00:59:58 +0800",
       "rabbit_stew": "2019-10-28 20:25:50 +0800",
@@ -2906,6 +2913,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-10-02 17:27:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_at_least_9_dried_kelp": "2019-10-29 21:08:16 +0800"
     },
     "done": true
   },
