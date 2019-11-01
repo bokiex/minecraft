@@ -58,3 +58,16 @@
 [03:04:11] [Server thread/INFO]: Swazztastic left the game
 [03:04:16] [Server thread/INFO]: Bellanca lost connection: Disconnected
 [03:04:16] [Server thread/INFO]: Bellanca left the game
+[03:11:19] [Server thread/INFO]: Stopping the server
+[03:11:19] [Server thread/INFO]: Stopping server
+[03:11:19] [Server thread/INFO]: Saving players
+[03:11:19] [Server thread/INFO]: Saving worlds
+[03:11:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[03:11:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:11:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[03:11:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:11:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[03:11:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:11:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:11:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:11:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
