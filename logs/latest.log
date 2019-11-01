@@ -1,272 +1,159 @@
-[18:49:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:49:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:49:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:49:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:49:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:49:35] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[18:49:35] [Server thread/INFO]: Loading properties
-[18:49:35] [Server thread/INFO]: Default game type: SURVIVAL
-[18:49:35] [Server thread/INFO]: Generating keypair
-[18:49:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:49:35] [Server thread/INFO]: Using default channel type
-[18:49:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:49:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:49:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:49:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:49:36] [Server thread/INFO]: Preparing level "world"
-[18:49:37] [Server thread/INFO]: Reloading ResourceManager: Default
-[18:49:37] [Server thread/INFO]: Loaded 6 recipes
-[18:49:38] [Server thread/INFO]: Loaded 811 advancements
-[18:49:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:49:40] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:40] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:40] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:40] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:40] [Server thread/INFO]: Time elapsed: 1946 ms
-[18:49:40] [Server thread/INFO]: Done (4.062s)! For help, type "help"
-[18:59:12] [Server thread/INFO]: Bellanca[/25.58.253.88:51544] logged in with entity id 399 at (152.78285431668036, 85.0, 360.1504681041301)
-[18:59:12] [Server thread/INFO]: Bellanca joined the game
-[19:28:18] [Server thread/INFO]: Bellanca was blown up by Creeper
-[19:29:16] [Server thread/INFO]: Bellanca was blown up by Creeper
-[19:29:25] [Server thread/INFO]: dairelle[/25.43.114.243:53654] logged in with entity id 5083 at (62.68845317077968, 80.0, 406.3683641648208)
-[19:29:25] [Server thread/INFO]: dairelle joined the game
-[19:31:38] [Server thread/INFO]: <dairelle> ello
-[19:31:46] [Server thread/INFO]: <Bellanca> Hi
-[19:49:07] [Server thread/INFO]: <dairelle> bella
-[19:49:08] [Server thread/INFO]: <dairelle> sleep
-[19:49:15] [Server thread/INFO]: <Bellanca> ok
-[19:49:30] [Server thread/INFO]: <dairelle> watchu doing
-[19:49:42] [Server thread/INFO]: <Bellanca> building a mincart track
-[19:49:44] [Server thread/INFO]: <Bellanca> you?
-[19:49:51] [Server thread/INFO]: <dairelle> moving my shit
-[19:50:00] [Server thread/INFO]: <dairelle> pain in the ass
-[19:50:06] [Server thread/INFO]: <Bellanca> ikr, thank god for shulkers
-[19:50:27] [Server thread/INFO]: <Bellanca> you gonna keep everything inside your house?
-[19:50:34] [Server thread/INFO]: <Bellanca> not like dan, he put all in basement
-[19:51:06] [Server thread/INFO]: <dairelle> i plan to create a storage space
-[19:51:09] [Server thread/INFO]: <dairelle> after i expand my hosue
-[19:51:32] [Server thread/INFO]: <dairelle> have you seen my house?
-[19:51:43] [Server thread/INFO]: <Bellanca> i see i see
-[19:51:52] [Server thread/INFO]: <Bellanca> ye i have, looks good bro
-[19:51:57] [Server thread/INFO]: <dairelle> thanks bruv
-[19:52:04] [Server thread/INFO]: <Bellanca> you like it?
-[19:52:12] [Server thread/INFO]: <dairelle> i guess bc it looks modern
-[19:52:48] [Server thread/INFO]: <Bellanca> mmhm mhmm
-[19:52:55] [Server thread/INFO]: <Bellanca> i almost got blown up by a creeper
-[19:53:03] [Server thread/INFO]: <dairelle> LOL
-[20:00:24] [Server thread/INFO]: <dairelle> btw wheres the new spider farm
-[20:00:36] [Server thread/INFO]: <Bellanca> what, you haven't been??
-[20:00:59] [Server thread/INFO]: <dairelle> idk wheres the lift dan created
-[20:01:13] [Server thread/INFO]: <Bellanca> after we sleep i bring you
-[20:01:17] [Server thread/INFO]: <dairelle> ok
-[20:01:23] [Server thread/INFO]: <Bellanca> come my house
-[20:01:27] [Server thread/INFO]: <dairelle> on my bed
-[20:01:57] [Server thread/INFO]: <dairelle> omw
-[20:02:47] [Server thread/INFO]: <dairelle> ohhh
-[20:02:50] [Server thread/INFO]: <dairelle> i see
-[20:02:56] [Server thread/INFO]: <Bellanca> stand on this carpet
-[20:03:01] [Server thread/INFO]: <Bellanca> for maximum efficiency
-[20:03:05] [Server thread/INFO]: <dairelle> ok
-[20:09:02] [Server thread/INFO]: <dairelle> fucking hell almost died to poison spider lmao
-[20:09:22] [Server thread/INFO]: <Bellanca> you can't wat
-[20:09:29] [Server thread/INFO]: <Bellanca> you can't die to poison
-[20:09:33] [Server thread/INFO]: <dairelle> i went to collect exp they hit me
-[20:09:38] [Server thread/INFO]: <dairelle> oh really you cant?
-[20:09:56] [Server thread/INFO]: <Bellanca> yeah it'll just bring you down to half a heart
-[20:10:06] [Server thread/INFO]: <dairelle> oh i didnt know that
-[20:10:53] [Server thread/INFO]: Swazztastic[/25.45.9.49:50284] logged in with entity id 15424 at (65.05317871154078, 84.0, 376.7322610943921)
-[20:10:53] [Server thread/INFO]: Swazztastic joined the game
-[20:10:58] [Server thread/INFO]: <dairelle> fuck this farm is awesome
-[20:11:02] [Server thread/INFO]: <Swazztastic> i told you bro
-[20:11:05] [Server thread/INFO]: <Swazztastic> sick farm
-[20:11:11] [Server thread/INFO]: <dairelle> yeah swazz
-[20:11:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/15578, l='world', x=67.30, y=63.00, z=329.22]
-[20:11:18] [Server thread/INFO]: <dairelle> lucky we found 2 near to one another
-[20:11:22] [Server thread/INFO]: <Swazztastic> yeah ikr
-[20:11:44] [Server thread/INFO]: <dairelle> swazz
-[20:11:47] [Server thread/INFO]: <dairelle> you playing?
-[20:12:28] [Server thread/INFO]: <dairelle> im mending :(
-[20:12:32] [Server thread/INFO]: <Swazztastic> why use sword
-[20:12:35] [Server thread/INFO]: <dairelle> huh?
-[20:12:38] [Server thread/INFO]: <Swazztastic> i mean whty not
-[20:12:40] [Server thread/INFO]: <Swazztastic> why use bow
-[20:12:44] [Server thread/INFO]: <dairelle> bc im lazy
-[20:12:47] [Server thread/INFO]: <dairelle> im eating
-[20:12:48] [Server thread/INFO]: <Swazztastic> use bane of arthropods uh
-[20:12:54] [Server thread/INFO]: <Swazztastic> plus you'll get more loot too
-[20:12:55] [Server thread/INFO]: <dairelle> but you playing, swazz?
-[20:12:58] [Server thread/INFO]: <Swazztastic> nope
-[20:13:05] [Server thread/INFO]: <dairelle> aw
-[20:13:12] [Server thread/INFO]: <Swazztastic> got work to do :(
-[20:13:31] [Server thread/INFO]: <dairelle> :(
-[20:13:41] [Server thread/INFO]: <Swazztastic> okay gona do work now
-[20:13:42] [Server thread/INFO]: <Swazztastic> bye
-[20:13:44] [Server thread/INFO]: <dairelle> orite
-[20:13:46] [Server thread/INFO]: <dairelle> bye swazz
-[20:15:06] [Server thread/INFO]: Swazztastic lost connection: Disconnected
-[20:15:06] [Server thread/INFO]: Swazztastic left the game
-[20:15:28] [Server thread/INFO]: Swazztastic[/25.45.9.49:50304] logged in with entity id 16366 at (68.47133601306143, 84.0625, 364.5182076972626)
-[20:15:28] [Server thread/INFO]: Swazztastic joined the game
-[20:15:36] [Server thread/INFO]: <dairelle> hey swazz you're back!
-[20:16:25] [Server thread/INFO]: <Swazztastic> just wanted to see your house
-[20:16:36] [Server thread/INFO]: <dairelle> i cleared the shit behind
-[20:16:39] [Server thread/INFO]: <Swazztastic> yeah i saw
-[20:16:41] [Server thread/INFO]: <dairelle> gonna try expanding
-[20:16:46] [Server thread/INFO]: <Swazztastic> yeah good idea
-[20:16:52] [Server thread/INFO]: <Swazztastic> and then you can start furnishing the place
-[20:16:56] [Server thread/INFO]: <dairelle> yes sirr
-[20:18:18] [Server thread/INFO]: Swazztastic lost connection: Disconnected
-[20:18:18] [Server thread/INFO]: Swazztastic left the game
-[20:18:59] [Server thread/INFO]: Bellanca lost connection: Disconnected
-[20:18:59] [Server thread/INFO]: Bellanca left the game
-[20:21:01] [Server thread/INFO]: Bellanca[/25.58.253.88:51756] logged in with entity id 17507 at (168.69999998807907, 80.0, 364.77393271976166)
-[20:21:01] [Server thread/INFO]: Bellanca joined the game
-[20:34:20] [Server thread/INFO]: <dairelle> YOOO
-[20:34:32] [Server thread/INFO]: <Bellanca> wat
-[20:34:41] [Server thread/INFO]: <dairelle> think i might have lost my riptide trident
-[20:34:43] [Server thread/INFO]: <dairelle> i cant find it
-[20:34:56] [Server thread/INFO]: <Bellanca> what about your shulkers?
-[20:35:11] [Server thread/INFO]: <dairelle> lol i was blind lmao
-[20:35:15] [Server thread/INFO]: <dairelle> found it it camo-ed
-[20:35:20] [Server thread/INFO]: <Bellanca> lol nice
-[20:36:28] [Server thread/INFO]: <Bellanca> did you steal my armor stand
-[20:36:32] [Server thread/INFO]: <dairelle> no i didnt
-[20:36:34] [Server thread/INFO]: <dairelle> why
-[20:36:44] [Server thread/INFO]: <Bellanca> cuz it gone la den
-[20:37:04] [Server thread/INFO]: <dairelle> why would i steal your armour stand
-[20:42:21] [Server thread/INFO]: dairelle fell from a high place
-[20:42:26] [Server thread/INFO]: <Bellanca> HAHAH
-[20:42:26] [Server thread/INFO]: <dairelle> NOOOOO
-[20:42:39] [Server thread/INFO]: <dairelle> 47 levelssssssssssssssssssssss
-[20:42:47] [Server thread/INFO]: <Bellanca> oh fuck
-[20:42:50] [Server thread/INFO]: <Bellanca> how did you die
-[20:42:53] [Server thread/INFO]: <dairelle> I TRIED TO FLY
-[20:43:03] [Server thread/INFO]: <dairelle> I FORGOT I TOOK OUT MY ELYTRA
-[20:43:10] [Server thread/INFO]: <dairelle> FUCKLAAAAAAAAAAA
-[20:44:09] [Server thread/INFO]: <dairelle> BACK AT LEVEL 7
-[20:44:10] [Server thread/INFO]: <dairelle> FUVK
-[20:44:15] [Server thread/INFO]: <dairelle> WASTE 40 LEVELS NBCB
-[20:55:29] [Server thread/INFO]: Bellanca lost connection: Disconnected
-[20:55:29] [Server thread/INFO]: Bellanca left the game
-[20:57:33] [Server thread/INFO]: Swazztastic[/25.45.9.49:51622] logged in with entity id 25817 at (67.44518919048932, 88.0625, 368.1166436094142)
-[20:57:33] [Server thread/INFO]: Swazztastic joined the game
-[20:57:42] [Server thread/INFO]: <dairelle> mother fucker
-[20:57:43] [Server thread/INFO]: <dairelle> i died
-[20:57:46] [Server thread/INFO]: <dairelle> lost 40 levels
-[20:58:02] [Server thread/INFO]: <Swazztastic> oh what
-[20:58:05] [Server thread/INFO]: <Swazztastic> damn
-[20:58:07] [Server thread/INFO]: <Swazztastic> rip dude
-[20:58:08] [Server thread/INFO]: <dairelle> ya bro
-[20:58:08] [Server thread/INFO]: <Swazztastic> how tf
-[20:58:13] [Server thread/INFO]: <dairelle> it was raining
-[20:58:25] [Server thread/INFO]: <dairelle> i thought i was wearing my elytra
-[20:58:31] [Server thread/INFO]: <dairelle> so i riptide
-[20:58:35] [Server thread/INFO]: <dairelle> then i couldnt fly
-[20:58:37] [Server thread/INFO]: <dairelle> fucking died
-[20:58:50] [Server thread/INFO]: <Swazztastic> HAHAHA
-[20:58:52] [Server thread/INFO]: <Swazztastic> fuck bro
-[20:58:55] [Server thread/INFO]: <dairelle> stupid right
-[20:58:56] [Server thread/INFO]: <Swazztastic> autistic
-[20:58:58] [Server thread/INFO]: <dairelle> waste 40 levels
-[20:59:00] [Server thread/INFO]: <dairelle> LOL
-[20:59:04] [Server thread/INFO]: <Swazztastic> nvm uh
-[20:59:07] [Server thread/INFO]: <Swazztastic> levels easy to get now
-[21:02:14] [Server thread/INFO]: Swazztastic lost connection: Disconnected
-[21:02:14] [Server thread/INFO]: Swazztastic left the game
-[21:12:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[21:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
-[21:17:51] [Server thread/INFO]: Bellanca[/25.58.253.88:51904] logged in with entity id 32910 at (156.12347139881768, 79.0, 382.54022630983053)
-[21:17:51] [Server thread/INFO]: Bellanca joined the game
-[21:17:57] [Server thread/INFO]: <Bellanca> wyd
-[21:17:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/33056, l='world', x=65.83, y=63.00, z=328.61]
-[21:18:13] [Server thread/INFO]: <dairelle> farming to craft concrete
-[21:18:38] [Server thread/INFO]: <Bellanca> to expand your house?
-[21:19:14] [Server thread/INFO]: <dairelle> yeah
-[21:19:18] [Server thread/INFO]: <dairelle> you have any lime dye?
-[21:19:36] [Server thread/INFO]: <Bellanca> i don't think i have a lot
-[21:19:38] [Server thread/INFO]: <dairelle> you have sea pickles?
-[21:19:43] [Server thread/INFO]: <Bellanca> nope
-[21:19:57] [Server thread/INFO]: <dairelle> could you spare me some green dye
-[21:20:18] [Server thread/INFO]: <dairelle> i mean lime dye
-[21:20:41] [Server thread/INFO]: <Bellanca> lmao i actually have none
-[21:21:03] [Server thread/INFO]: <Bellanca> green and white v easy get what
-[21:21:07] [Server thread/INFO]: <Bellanca> green use cactus
-[21:21:12] [Server thread/INFO]: <Bellanca> white go pluck flower
-[21:21:23] [Server thread/INFO]: <dairelle> i see anymore white flowers
-[21:21:28] [Server thread/INFO]: <dairelle> need the lily something
-[21:21:52] [Server thread/INFO]: <Bellanca> lily of the valley
-[21:22:09] [Server thread/INFO]: <Bellanca> our flower biome dh meh?
-[21:24:58] [Server thread/INFO]: <dairelle> yeah
-[21:25:03] [Server thread/INFO]: <dairelle> cant find anymore
-[21:25:30] [Server thread/INFO]: <Bellanca> welp shit, i only have 1
-[21:26:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34860, l='world', x=65.83, y=63.00, z=329.68]
-[21:31:59] [Server thread/INFO]: <Bellanca> you got any birch wood?
-[21:32:09] [Server thread/INFO]: <dairelle> no i have dark oak
-[21:32:13] [Server thread/INFO]: <Bellanca> fuc
-[21:32:34] [Server thread/INFO]: <Bellanca> damn sot, accidentally made 30 fence gates instead of fence
-[21:33:17] [Server thread/INFO]: <dairelle> lets sleep
-[21:33:23] [Server thread/INFO]: <dairelle> HAHA LOL
-[21:33:24] [Server thread/INFO]: <Bellanca> ok
-[21:39:09] [Server thread/INFO]: Swazztastic[/25.45.9.49:52101] logged in with entity id 37515 at (70.15758592892414, 88.0625, 367.28630205947275)
-[21:39:09] [Server thread/INFO]: Swazztastic joined the game
-[21:39:15] [Server thread/INFO]: <Swazztastic> darry
-[21:39:19] [Server thread/INFO]: <dairelle> yes dany
-[21:39:22] [Server thread/INFO]: <Swazztastic> come gorup
-[21:39:26] [Server thread/INFO]: <Swazztastic> group
-[21:39:42] [Server thread/INFO]: <dairelle> you playing meh
-[21:39:44] [Server thread/INFO]: <Swazztastic> discord
-[21:39:46] [Server thread/INFO]: <Swazztastic> yessir
-[21:40:16] [Server thread/INFO]: <Swazztastic> oy
-[21:40:28] [Server thread/INFO]: <dairelle> marcus and jere wants to play league
-[21:40:34] [Server thread/INFO]: <Swazztastic> tell them to fuck off
-[21:40:48] [Server thread/INFO]: <Swazztastic> bro i finish my work come play with you then you leave
-[21:41:08] [Server thread/INFO]: <dairelle> i thought you werent playing mah
-[21:41:19] [Server thread/INFO]: <Swazztastic> so you're leaving?
-[21:42:01] [Server thread/INFO]: <dairelle> yeah later
-[21:44:17] [Server thread/INFO]: <dairelle> what you wanna do?
-[21:44:52] [Server thread/INFO]: <Swazztastic> i wanna explore the stronghold mineshaft
-[21:45:57] [Server thread/INFO]: <Bellanca> sleep
-[21:46:01] [Server thread/INFO]: <Bellanca> sleep
-[21:49:43] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/40140, l='world', x=-5.18, y=65.73, z=390.51]
-[21:56:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41866, l='world', x=66.86, y=63.00, z=327.64]
-[21:59:35] [Server thread/INFO]: <Swazztastic> tsleep
-[21:59:37] [Server thread/INFO]: <Swazztastic> sleep
-[21:59:46] [Server thread/INFO]: <dairelle> discord?
-[22:12:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46119, l='world', x=66.33, y=63.00, z=328.71]
-[22:12:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46119, l='world', x=66.33, y=63.00, z=328.71]
-[22:13:48] [Server thread/INFO]: <dairelle> 5
-[22:14:38] [Server thread/INFO]: Bellanca lost connection: Disconnected
-[22:14:38] [Server thread/INFO]: Bellanca left the game
-[22:17:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/47277, l='world', x=68.17, y=63.00, z=329.71]
-[22:30:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/50869, l='world', x=66.35, y=63.00, z=329.76]
-[22:34:46] [Server thread/WARN]: Swazztastic moved too quickly! 5.89455596456315,2.9688360864489454,16.855923832139837
-[22:34:46] [Server thread/WARN]: dairelle moved too quickly! -0.0963671312129577,-7.29351213953057,6.969790843540956
-[22:37:02] [Server thread/WARN]: dairelle moved too quickly! -902.9737282356361,14.945106652967922,-2186.1829750640445
-[22:37:03] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[22:37:03] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[22:37:03] [Server thread/WARN]: Swazztastic moved too quickly! -904.2985387384216,15.233632006042477,-2186.35646537346
-[22:40:02] [Server thread/INFO]: dairelle tried to swim in lava
-[22:40:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/53406, l='world', x=66.34, y=63.00, z=328.15]
-[22:42:50] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
-[22:46:56] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
-[22:48:46] [Server thread/INFO]: dairelle lost connection: Disconnected
-[22:48:46] [Server thread/INFO]: dairelle left the game
-[22:49:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/55002, l='world', x=68.17, y=63.00, z=328.30]
-[22:53:42] [Server thread/WARN]: Swazztastic moved too quickly! -904.0208497266682,15.233632006042477,-2186.42626776078
-[22:53:42] [Server thread/WARN]: Swazztastic moved too quickly! -904.0208497266682,15.233632006042477,-2186.42626776078
-[22:54:46] [Server thread/WARN]: Swazztastic moved too quickly! -1.1069721258706977,-1.1132482643722739,18.316947692564213
-[22:57:08] [Server thread/INFO]: Swazztastic lost connection: Disconnected
-[22:57:08] [Server thread/INFO]: Swazztastic left the game
-[22:59:53] [Server thread/INFO]: Stopping the server
-[22:59:53] [Server thread/INFO]: Stopping server
-[22:59:53] [Server thread/INFO]: Saving players
-[22:59:53] [Server thread/INFO]: Saving worlds
-[22:59:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:59:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:59:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:59:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:59:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:59:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:59:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:59:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:59:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:27:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:27:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:27:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:27:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:27:29] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[14:27:29] [Server thread/INFO]: Loading properties
+[14:27:29] [Server thread/INFO]: Default game type: SURVIVAL
+[14:27:29] [Server thread/INFO]: Generating keypair
+[14:27:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:27:29] [Server thread/INFO]: Using default channel type
+[14:27:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:27:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:27:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:27:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:27:30] [Server thread/INFO]: Preparing level "world"
+[14:27:30] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:27:31] [Server thread/INFO]: Loaded 6 recipes
+[14:27:32] [Server thread/INFO]: Loaded 811 advancements
+[14:27:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:27:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:27:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:27:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:27:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:27:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:27:36] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[14:27:36] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[14:27:36] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[14:27:36] [Server thread/INFO]: Preparing spawn area: 63%
+[14:27:36] [Server thread/INFO]: Time elapsed: 4376 ms
+[14:27:36] [Server thread/INFO]: Done (6.740s)! For help, type "help"
+[15:01:44] [Server thread/INFO]: Made dairelle a server operator
+[15:12:12] [Server thread/INFO]: Swazztastic[/25.45.9.49:51440] logged in with entity id 407 at (67.91139717715447, 91.0625, 363.7958232659858)
+[15:12:12] [Server thread/INFO]: Swazztastic joined the game
+[15:12:14] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[15:12:14] [Server thread/INFO]: Swazztastic left the game
+[15:12:20] [Server thread/INFO]: Swazztastic[/25.45.9.49:51446] logged in with entity id 530 at (67.91139717715447, 91.0625, 363.7958232659858)
+[15:12:20] [Server thread/INFO]: Swazztastic joined the game
+[15:12:37] [Server thread/WARN]: Swazztastic moved too quickly! 13.373017906635898,-7.660522848714692,-10.273545566886582
+[15:15:51] [Server thread/INFO]: dairelle[/25.43.114.243:57250] logged in with entity id 2654 at (54.54008332584986, 80.0, 411.86346372736665)
+[15:15:51] [Server thread/INFO]: dairelle joined the game
+[15:16:30] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[15:16:30] [Server thread/INFO]: Swazztastic left the game
+[15:17:03] [Server thread/INFO]: Swazztastic[/25.45.9.49:51573] logged in with entity id 2973 at (61.99185226640675, 94.5, 371.24480304306405)
+[15:17:03] [Server thread/INFO]: Swazztastic joined the game
+[15:17:39] [Server thread/WARN]: dairelle moved too quickly! 7.905042425933729,3.7531999805212024,4.969784569043156
+[15:17:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[15:18:41] [Server thread/INFO]: [dairelle: Set own game mode to Creative Mode]
+[15:19:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3465, l='world', x=66.12, y=63.00, z=328.69]
+[15:21:31] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[15:21:31] [Server thread/INFO]: Swazztastic left the game
+[15:24:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/4286, l='world', x=66.26, y=63.00, z=328.21]
+[15:39:30] [Server thread/INFO]: [dairelle: Set own game mode to Survival Mode]
+[15:41:44] [Server thread/INFO]: Swazztastic[/25.45.9.49:51728] logged in with entity id 6885 at (61.722286525563426, 91.875, 367.15505470687316)
+[15:41:44] [Server thread/INFO]: Swazztastic joined the game
+[15:44:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7473, l='world', x=67.62, y=63.00, z=330.17]
+[15:46:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7863, l='world', x=67.68, y=63.00, z=327.72]
+[15:48:02] [Server thread/INFO]: Made dairelle no longer a server operator
+[15:51:20] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/8720, l='world', x=67.04, y=63.00, z=328.80]
+[15:56:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/9720, l='world', x=68.17, y=63.00, z=329.24]
+[16:11:56] [Server thread/INFO]: john[/25.43.173.28:56889] logged in with entity id 13978 at (47.37918926079781, 74.0, 372.4608750349499)
+[16:11:56] [Server thread/INFO]: john joined the game
+[16:18:07] [Server thread/WARN]: Fetching packet for removed entity atx['Sugar Cane'/15477, l='world', x=97.88, y=61.66, z=336.75]
+[16:30:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/18821, l='world', x=68.17, y=63.00, z=329.45]
+[16:30:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/18821, l='world', x=68.17, y=63.00, z=329.45]
+[16:30:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/18957, l='world', x=65.83, y=63.00, z=328.34]
+[16:30:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/18957, l='world', x=65.83, y=63.00, z=328.34]
+[16:30:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/18957, l='world', x=65.83, y=63.00, z=328.34]
+[16:39:53] [Server thread/WARN]: Swazztastic moved too quickly! -904.6999999880791,15.233632006042477,-2186.517039356489
+[16:39:53] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:39:53] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[16:51:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/26714, l='world', x=68.17, y=63.00, z=330.03]
+[16:56:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/29341, l='world', x=66.74, y=63.00, z=327.27]
+[16:58:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/29907, l='world', x=67.23, y=63.00, z=327.24]
+[16:59:50] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30071, l='world', x=66.77, y=63.00, z=327.83]
+[16:59:50] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30071, l='world', x=66.77, y=63.00, z=327.83]
+[17:06:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/31923, l='world', x=66.77, y=63.00, z=327.83]
+[17:06:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/31923, l='world', x=66.77, y=63.00, z=327.83]
+[17:08:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/32291, l='world', x=68.17, y=63.00, z=326.83]
+[17:08:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/32291, l='world', x=68.17, y=63.00, z=326.83]
+[17:08:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/32291, l='world', x=68.17, y=63.00, z=326.83]
+[17:17:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34112, l='world', x=67.35, y=63.00, z=329.10]
+[17:17:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34112, l='world', x=67.35, y=63.00, z=329.10]
+[17:21:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35030, l='world', x=65.83, y=63.00, z=329.48]
+[17:21:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35030, l='world', x=65.83, y=63.00, z=329.48]
+[17:23:49] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35492, l='world', x=66.08, y=63.00, z=328.19]
+[17:27:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36158, l='world', x=67.73, y=63.00, z=330.17]
+[17:40:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/39128, l='world', x=67.10, y=63.00, z=329.10]
+[17:41:02] [Server thread/WARN]: Swazztastic moved wrongly!
+[17:42:41] [Server thread/WARN]: john moved too quickly! -14.545203588012015,-3.7377065128333697,-8.891335362329144
+[17:42:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[17:49:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42530, l='world', x=68.17, y=63.00, z=327.72]
+[17:57:43] [Server thread/WARN]: john moved too quickly! 17.22006965537028,-2.5948673627862533,-1.7223788654073573
+[18:01:55] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46534, l='world', x=68.17, y=63.00, z=329.09]
+[18:04:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/47500, l='world', x=66.24, y=63.00, z=328.95]
+[18:07:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/48846, l='world', x=67.47, y=63.00, z=329.58]
+[18:07:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/48846, l='world', x=67.47, y=63.00, z=329.58]
+[18:10:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/49525, l='world', x=68.17, y=63.00, z=328.32]
+[18:15:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/50524, l='world', x=67.76, y=63.00, z=330.17]
+[18:26:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52952, l='world', x=66.61, y=63.00, z=327.55]
+[18:26:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52952, l='world', x=66.61, y=63.00, z=327.55]
+[18:28:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/53418, l='world', x=67.23, y=63.00, z=329.19]
+[18:28:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/53418, l='world', x=67.23, y=63.00, z=329.19]
+[18:32:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/54548, l='world', x=66.97, y=63.00, z=330.08]
+[18:32:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/54548, l='world', x=66.97, y=63.00, z=330.08]
+[18:43:06] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/56742, l='world', x=67.69, y=63.00, z=329.77]
+[18:44:11] [Server thread/WARN]: Swazztastic moved wrongly!
+[18:46:04] [Server thread/INFO]: john lost connection: Disconnected
+[18:46:04] [Server thread/INFO]: john left the game
+[18:48:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/57842, l='world', x=67.28, y=63.00, z=327.28]
+[18:48:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/57842, l='world', x=67.28, y=63.00, z=327.28]
+[19:02:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/60509, l='world', x=66.64, y=63.00, z=329.76]
+[19:03:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/60638, l='world', x=67.74, y=63.00, z=329.71]
+[19:05:41] [Server thread/WARN]: Swazztastic moved wrongly!
+[19:20:04] [Server thread/WARN]: Swazztastic moved wrongly!
+[19:20:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/64747, l='world', x=67.76, y=63.00, z=327.29]
+[19:21:18] [Server thread/WARN]: Swazztastic moved wrongly!
+[19:21:18] [Server thread/WARN]: Swazztastic moved wrongly!
+[19:21:50] [Server thread/WARN]: dairelle moved wrongly!
+[19:21:53] [Server thread/WARN]: dairelle moved wrongly!
+[19:22:00] [Server thread/WARN]: Swazztastic moved wrongly!
+[19:29:50] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/66915, l='world', x=66.32, y=63.00, z=326.83]
+[19:31:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/67179, l='world', x=67.22, y=63.00, z=328.87]
+[19:33:08] [Server thread/WARN]: Swazztastic moved wrongly!
+[19:38:00] [Server thread/WARN]: Swazztastic moved wrongly!
+[19:41:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69038, l='world', x=68.17, y=63.00, z=328.40]
+[19:48:45] [Server thread/WARN]: Swazztastic moved wrongly!
+[19:50:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/71230, l='world', x=51.57, y=64.82, z=335.28]
+[19:52:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/71647, l='world', x=66.74, y=63.00, z=327.97]
+[19:52:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/71647, l='world', x=66.74, y=63.00, z=327.97]
+[19:53:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/71779, l='world', x=66.73, y=63.00, z=326.83]
+[19:53:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/71779, l='world', x=66.73, y=63.00, z=326.83]
+[19:55:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72126, l='world', x=66.20, y=63.00, z=326.83]
+[19:55:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72126, l='world', x=66.20, y=63.00, z=326.83]
+[19:56:12] [Server thread/INFO]: dairelle lost connection: Disconnected
+[19:56:12] [Server thread/INFO]: dairelle left the game
+[19:56:15] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[19:56:15] [Server thread/INFO]: Swazztastic left the game
+[22:28:07] [Server thread/INFO]: john[/25.43.173.28:57436] logged in with entity id 72320 at (32.264584633628374, 82.0, 403.11400254709923)
+[22:28:07] [Server thread/INFO]: john joined the game
+[23:08:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/80159, l='world', x=67.74, y=63.00, z=327.21]
+[23:11:21] [Server thread/INFO]: john lost connection: Disconnected
+[23:11:21] [Server thread/INFO]: john left the game
+[23:53:12] [Server thread/INFO]: Bellanca[/25.58.253.88:56200] logged in with entity id 80818 at (146.16461814760046, 68.0, 366.0311593751952)
+[23:53:12] [Server thread/INFO]: Bellanca joined the game
+[23:53:17] [Server thread/INFO]: Bellanca lost connection: Disconnected
+[23:53:17] [Server thread/INFO]: Bellanca left the game
+[23:53:26] [Server thread/INFO]: Stopping the server
+[23:53:26] [Server thread/INFO]: Stopping server
+[23:53:26] [Server thread/INFO]: Saving players
+[23:53:26] [Server thread/INFO]: Saving worlds
+[23:53:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:53:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:53:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:53:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:53:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:53:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:53:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:53:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:53:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
