@@ -2997,6 +2997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_the_recipe": "2019-11-02 21:54:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-09-26 23:28:27 +0800"
@@ -3395,7 +3401,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/tabby.png": "2019-10-04 17:29:14 +0800"
+      "textures/entity/cat/tabby.png": "2019-10-04 17:29:14 +0800",
+      "textures/entity/cat/red.png": "2019-11-02 22:22:58 +0800"
     },
     "done": false
   },
