@@ -1,57 +1,18 @@
-[18:04:42] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:04:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:04:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:04:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:04:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:04:43] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[18:04:43] [Server thread/INFO]: Loading properties
-[18:04:43] [Server thread/INFO]: Default game type: SURVIVAL
-[18:04:43] [Server thread/INFO]: Generating keypair
-[18:04:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:04:43] [Server thread/INFO]: Using default channel type
-[18:04:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:04:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:04:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:04:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:04:44] [Server thread/INFO]: Preparing level "world"
-[18:04:44] [Server thread/INFO]: Reloading ResourceManager: Default
-[18:04:45] [Server thread/INFO]: Loaded 6 recipes
-[18:04:46] [Server thread/INFO]: Loaded 811 advancements
-[18:04:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:04:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:49] [Server thread/INFO]: Preparing spawn area: 49%
-[18:04:49] [Server thread/INFO]: Time elapsed: 2737 ms
-[18:04:49] [Server thread/INFO]: Done (4.685s)! For help, type "help"
-[18:08:17] [Server thread/INFO]: Bellanca[/25.12.35.221:61658] logged in with entity id 440 at (156.81703368904832, 89.0, 352.37530562169434)
-[18:08:17] [Server thread/INFO]: Bellanca joined the game
-[18:32:25] [Server thread/INFO]: Bellanca was slain by Cave Spider
-[18:48:37] [Server thread/INFO]: Bellanca lost connection: Disconnected
-[18:48:37] [Server thread/INFO]: Bellanca left the game
-[20:11:58] [Server thread/INFO]: Bellanca[/25.12.35.221:62378] logged in with entity id 5063 at (216.3000560325494, 29.0, 278.59927475923917)
-[20:11:58] [Server thread/INFO]: Bellanca joined the game
-[20:47:17] [Server thread/WARN]: Fetching packet for removed entity atx['Dark Oak Log'/10898, l='world', x=153.50, y=55.00, z=5.30]
-[20:49:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:53:58] [Server thread/INFO]: Bellanca lost connection: Disconnected
-[20:53:58] [Server thread/INFO]: Bellanca left the game
-[21:52:15] [Server thread/INFO]: john[/25.43.173.28:60123] logged in with entity id 12183 at (34.75471036169022, 82.0, 404.87605519185183)
-[21:52:15] [Server thread/INFO]: john joined the game
-[22:20:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/17287, l='world', x=66.70, y=63.00, z=330.17]
-[22:46:04] [Server thread/INFO]: john lost connection: Disconnected
-[22:46:04] [Server thread/INFO]: john left the game
-[22:50:01] [Server thread/INFO]: Stopping the server
-[22:50:01] [Server thread/INFO]: Stopping server
-[22:50:01] [Server thread/INFO]: Saving players
-[22:50:01] [Server thread/INFO]: Saving worlds
-[22:50:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:50:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:50:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:15:37] [Server thread/INFO]: dairelle[/25.43.114.243:51731] logged in with entity id 432 at (71.58490882830682, 84.0625, 407.7639391941757)
+[00:15:37] [Server thread/INFO]: dairelle joined the game
+[01:38:06] [Server thread/WARN]: dairelle moved wrongly!
+[01:55:22] [Server thread/INFO]: dairelle lost connection: Disconnected
+[01:55:22] [Server thread/INFO]: dairelle left the game
+[09:48:41] [Server thread/INFO]: Stopping the server
+[09:48:41] [Server thread/INFO]: Stopping server
+[09:48:41] [Server thread/INFO]: Saving players
+[09:48:41] [Server thread/INFO]: Saving worlds
+[09:48:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[09:48:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:48:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[09:48:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:48:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[09:48:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:48:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:48:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:48:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
