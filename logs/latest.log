@@ -1,67 +1,180 @@
-[00:00:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10596, l='world', x=65.83, y=63.00, z=328.66]
-[00:00:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10596, l='world', x=65.83, y=63.00, z=328.66]
-[00:00:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10596, l='world', x=65.83, y=63.00, z=328.66]
-[00:01:26] [Server thread/INFO]: <Swazztastic> sleep
-[00:01:27] [Server thread/INFO]: <Swazztastic> jongn
-[00:01:29] [Server thread/INFO]: <Swazztastic> sleep
-[00:01:33] [Server thread/INFO]: <Swazztastic> tjong jong
-[00:01:35] [Server thread/INFO]: <Swazztastic> sleep
-[00:01:39] [Server thread/INFO]: <john> ok
-[00:03:15] [Server thread/WARN]: dairelle moved too quickly! 14.543692758786259,8.95411639005502,-6.478066572227817
-[00:03:15] [Server thread/WARN]: Swazztastic moved too quickly! 10.432370090485634,9.043564734265303,-11.444061671236284
-[00:06:17] [Server thread/INFO]: dairelle lost connection: Disconnected
-[00:06:17] [Server thread/INFO]: dairelle left the game
-[00:06:23] [Server thread/INFO]: dairelle[/25.43.114.243:50629] logged in with entity id 13839 at (95.046555510753, 67.0, 82.30130063553118)
-[00:06:23] [Server thread/INFO]: dairelle joined the game
-[00:08:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
-[00:12:56] [Server thread/WARN]: dairelle moved too quickly! 5.2039897443376475,2.0,8.854650052488694
-[00:13:18] [Server thread/WARN]: Swazztastic moved too quickly! 9.49339866984736,0.49520087700592796,3.3669542575467517
-[00:13:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2323ms or 46 ticks behind
-[00:16:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[00:17:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10179ms or 203 ticks behind
-[00:17:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11489ms or 229 ticks behind
-[00:18:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13467ms or 269 ticks behind
-[00:18:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12191ms or 243 ticks behind
-[00:19:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12018ms or 240 ticks behind
-[00:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10166ms or 203 ticks behind
-[00:19:49] [Server thread/INFO]: dairelle lost connection: Disconnected
-[00:19:49] [Server thread/INFO]: dairelle left the game
-[00:19:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11694ms or 233 ticks behind
-[00:19:56] [Server thread/INFO]: dairelle[/25.43.114.243:50652] logged in with entity id 19781 at (32.662661884665276, 66.0, 358.69999998807907)
-[00:19:56] [Server thread/INFO]: dairelle joined the game
-[00:20:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9956ms or 199 ticks behind
-[00:20:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/19841, l='world', x=67.72, y=63.00, z=329.31]
-[00:20:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/19841, l='world', x=67.72, y=63.00, z=329.31]
-[00:20:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/19841, l='world', x=67.72, y=63.00, z=329.31]
-[00:20:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11282ms or 225 ticks behind
-[00:21:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15335ms or 306 ticks behind
-[00:21:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9650ms or 193 ticks behind
-[00:22:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10329ms or 206 ticks behind
-[00:22:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10976ms or 219 ticks behind
-[00:22:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10122ms or 202 ticks behind
-[00:23:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11221ms or 224 ticks behind
-[00:23:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10638ms or 212 ticks behind
-[00:24:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11127ms or 222 ticks behind
-[00:24:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11900ms or 238 ticks behind
-[00:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11588ms or 231 ticks behind
-[00:25:17] [Server thread/INFO]: dairelle lost connection: Disconnected
-[00:25:17] [Server thread/INFO]: dairelle left the game
-[00:25:19] [Server thread/INFO]: Bellanca lost connection: Disconnected
-[00:25:19] [Server thread/INFO]: Bellanca left the game
-[00:25:19] [Server thread/INFO]: Swazztastic lost connection: Disconnected
-[00:25:19] [Server thread/INFO]: Swazztastic left the game
-[00:25:22] [Server thread/INFO]: john lost connection: Disconnected
-[00:25:22] [Server thread/INFO]: john left the game
-[00:25:28] [Server thread/INFO]: Stopping the server
-[00:25:28] [Server thread/INFO]: Stopping server
-[00:25:28] [Server thread/INFO]: Saving players
-[00:25:28] [Server thread/INFO]: Saving worlds
-[00:25:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:25:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:25:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:25:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:25:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:26:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:26:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:26:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:26:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:26:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:26:35] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[00:26:35] [Server thread/INFO]: Loading properties
+[00:26:35] [Server thread/INFO]: Default game type: SURVIVAL
+[00:26:35] [Server thread/INFO]: Generating keypair
+[00:26:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:26:35] [Server thread/INFO]: Using default channel type
+[00:26:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:26:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:26:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:26:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:26:36] [Server thread/INFO]: Preparing level "world"
+[00:26:37] [Server thread/INFO]: Reloading ResourceManager: Default
+[00:26:38] [Server thread/INFO]: Loaded 6 recipes
+[00:26:39] [Server thread/INFO]: Loaded 811 advancements
+[00:26:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:26:43] [Server thread/INFO]: Preparing spawn area: 0%
+[00:26:43] [Server thread/INFO]: Preparing spawn area: 0%
+[00:26:43] [Server thread/INFO]: Preparing spawn area: 0%
+[00:26:43] [Server thread/INFO]: Preparing spawn area: 0%
+[00:26:43] [Server thread/INFO]: Preparing spawn area: 0%
+[00:26:43] [Server thread/INFO]: Preparing spawn area: 0%
+[00:26:43] [Server thread/INFO]: Preparing spawn area: 0%
+[00:26:44] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[00:26:44] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[00:26:45] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[00:26:45] [Server thread/INFO]: Preparing spawn area: 52%
+[00:26:46] [Server thread/INFO]: Time elapsed: 5752 ms
+[00:26:46] [Server thread/INFO]: Done (9.223s)! For help, type "help"
+[00:27:17] [Server thread/INFO]: Bellanca[/25.58.253.88:50395] logged in with entity id 481 at (185.5395986468006, 67.0, 312.8785247050778)
+[00:27:17] [Server thread/INFO]: Bellanca joined the game
+[00:27:26] [Server thread/INFO]: john[/25.43.173.28:64158] logged in with entity id 702 at (27.615803065925704, 73.0, 390.40088631665674)
+[00:27:26] [Server thread/INFO]: john joined the game
+[00:27:29] [Server thread/INFO]: Swazztastic[/25.45.9.49:62235] logged in with entity id 871 at (26.033121762117823, 66.0, 301.62015536669156)
+[00:27:29] [Server thread/INFO]: Swazztastic joined the game
+[00:29:45] [Server thread/INFO]: dairelle[/25.43.114.243:50738] logged in with entity id 1412 at (50.245243661604604, 61.0, 102.24124797500114)
+[00:29:45] [Server thread/INFO]: dairelle joined the game
+[00:31:48] [Server thread/WARN]: Swazztastic moved too quickly! -9.504940241621298,0.07520089011894981,3.8408551620960907
+[00:31:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
+[00:33:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3496, l='world', x=66.33, y=63.00, z=328.74]
+[00:33:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3496, l='world', x=66.33, y=63.00, z=328.74]
+[00:40:26] [Server thread/INFO]: <Swazztastic> sleepepepo
+[00:40:31] [Server thread/INFO]: <Swazztastic> slepepeppep ueppepepeppepepe[
+[00:42:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/6844, l='world', x=66.75, y=63.00, z=326.83]
+[00:46:50] [Server thread/WARN]: dairelle moved too quickly! -0.6203286187230503,-6.515421143778795,7.802922308016676
+[00:52:22] [Server thread/INFO]: john lost connection: Disconnected
+[00:52:22] [Server thread/INFO]: john left the game
+[00:59:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12188, l='world', x=67.12, y=63.00, z=329.03]
+[01:03:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12880, l='world', x=67.24, y=63.00, z=327.44]
+[01:03:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12880, l='world', x=67.24, y=63.00, z=327.44]
+[01:07:33] [Server thread/INFO]: john[/25.43.173.28:64434] logged in with entity id 13573 at (38.299999974668026, 82.0000002, 403.299999974668)
+[01:07:33] [Server thread/INFO]: john joined the game
+[01:09:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14407, l='world', x=67.79, y=63.00, z=330.17]
+[01:09:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14407, l='world', x=67.79, y=63.00, z=330.17]
+[01:09:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14407, l='world', x=67.79, y=63.00, z=330.17]
+[01:09:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14407, l='world', x=67.79, y=63.00, z=330.17]
+[01:10:48] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14639, l='world', x=66.93, y=63.00, z=329.78]
+[01:10:48] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14639, l='world', x=66.93, y=63.00, z=329.78]
+[01:10:48] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14639, l='world', x=66.93, y=63.00, z=329.78]
+[01:10:48] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14639, l='world', x=66.93, y=63.00, z=329.78]
+[01:13:36] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[01:14:33] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[01:14:48] [Server thread/WARN]: john moved too quickly! 0.49223480534233666,-2.002673703659269,-18.273368223517082
+[01:15:51] [Server thread/INFO]: john lost connection: Disconnected
+[01:15:51] [Server thread/INFO]: john left the game
+[01:16:50] [Server thread/WARN]: dairelle moved too quickly! 4.271961155996394,-9.624849496915559,-14.329441541000733
+[01:17:41] [Server thread/INFO]: john[/25.43.173.28:64443] logged in with entity id 19351 at (43.730599373232074, 63.0, -3861.5067497421796)
+[01:17:41] [Server thread/INFO]: john joined the game
+[01:18:14] [Server thread/INFO]: <dairelle> e
+[01:19:45] [Server thread/WARN]: Swazztastic moved too quickly! 1.7828450201015755,0.7629466924713313,-18.146904233461328
+[01:19:45] [Server thread/WARN]: dairelle moved too quickly! -0.7953674365302454,-2.7643501169711726,-18.593141233331153
+[01:19:45] [Server thread/WARN]: Bellanca moved too quickly! 0.10004716303510364,-0.5336051643464828,-17.367179293956497
+[01:20:45] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[01:21:04] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[01:21:53] [Server thread/WARN]: Bellanca moved too quickly! 0.9927352243962844,6.774000327759381,-16.36490324204715
+[01:21:53] [Server thread/WARN]: Swazztastic moved too quickly! -2.5025718797005254,2.852640268555021,-17.443738321711862
+[01:21:53] [Server thread/WARN]: dairelle moved too quickly! 16.72902903397778,-2.0554349284059725,-5.539412382691808
+[01:21:53] [Server thread/WARN]: john moved too quickly! 0.5113475635375693,6.0,8.200033987922325
+[01:21:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4879ms or 97 ticks behind
+[01:23:31] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[01:23:49] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[01:24:28] [Server thread/WARN]: dairelle moved too quickly! -2.1169676364571117,2.121296840539202,-9.647427198790865
+[01:24:28] [Server thread/WARN]: Bellanca moved wrongly!
+[01:24:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6171ms or 123 ticks behind
+[01:27:04] [Server thread/WARN]: Swazztastic moved too quickly! -10.302424676816578,-6.31959139769566,12.515629539407428
+[01:27:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4951ms or 99 ticks behind
+[01:27:28] [Server thread/WARN]: Swazztastic moved too quickly! -11.73848492628639,5.214745387789705,13.380884667003897
+[01:28:08] [Server thread/INFO]: <john> -5 5
+[01:28:11] [Server thread/INFO]: <john> -5 45
+[01:29:09] [Server thread/INFO]: <john> 14 -677
+[01:30:54] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[01:32:10] [Server thread/WARN]: Swazztastic moved too quickly! 4.896034490311877,7.671993047104529,14.876441977183418
+[01:32:10] [Server thread/WARN]: john moved too quickly! 8.818618718223519,1.0,5.071788722021022
+[01:32:10] [Server thread/WARN]: dairelle moved too quickly! 7.033492604106158,4.166109260938214,6.017817812298745
+[01:32:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5685ms or 113 ticks behind
+[01:32:10] [Server thread/WARN]: Bellanca moved wrongly!
+[01:32:51] [Server thread/INFO]: <john> 7 45
+[01:33:04] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[01:37:05] [Server thread/WARN]: Swazztastic was kicked for floating too long!
+[01:37:05] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[01:37:05] [Server thread/INFO]: Swazztastic left the game
+[01:37:05] [Server thread/WARN]: handleDisconnection() called twice
+[01:37:13] [Server thread/WARN]: dairelle moved too quickly! 0.7400147949747833,-2.294167247407273,18.251699819826626
+[01:37:13] [Server thread/WARN]: Bellanca moved too quickly! 5.268741248578564,-1.5647768946265614,16.95019387897605
+[01:37:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2578ms or 51 ticks behind
+[01:37:13] [Server thread/INFO]: Swazztastic[/25.45.9.49:62614] logged in with entity id 46181 at (31.744088998731016, 66.8500000178814, 355.69559028490437)
+[01:37:13] [Server thread/INFO]: Swazztastic joined the game
+[01:46:14] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/48939, l='world', x=223.19, y=24.41, z=274.88]
+[01:47:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/49430, l='world', x=65.83, y=63.00, z=328.59]
+[01:47:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/49430, l='world', x=65.83, y=63.00, z=328.59]
+[01:47:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/49430, l='world', x=65.83, y=63.00, z=328.59]
+[01:47:33] [Server thread/INFO]: john fell from a high place
+[01:50:08] [Server thread/INFO]: john fell from a high place
+[01:50:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
+[01:52:17] [Server thread/WARN]: Bellanca moved too quickly! 2.821117008203146,-0.7684762024129839,-9.703393839610385
+[01:52:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[01:54:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52581, l='world', x=67.73, y=63.00, z=329.69]
+[01:54:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52581, l='world', x=67.73, y=63.00, z=329.69]
+[01:54:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52581, l='world', x=67.73, y=63.00, z=329.69]
+[01:54:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52582, l='world', x=67.72, y=63.00, z=329.23]
+[01:54:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52582, l='world', x=67.72, y=63.00, z=329.23]
+[01:54:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52582, l='world', x=67.72, y=63.00, z=329.23]
+[01:55:12] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[01:55:25] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[02:01:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/55022, l='world', x=68.17, y=63.00, z=327.29]
+[02:02:19] [Server thread/WARN]: dairelle moved too quickly! 7.529062678101155,-4.3074800456282105,5.7987301911690565
+[02:02:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[02:07:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/56837, l='world', x=65.83, y=63.00, z=329.40]
+[02:07:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/56837, l='world', x=65.83, y=63.00, z=329.40]
+[02:07:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/56837, l='world', x=65.83, y=63.00, z=329.40]
+[02:07:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/56837, l='world', x=65.83, y=63.00, z=329.40]
+[02:09:43] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/57434, l='world', x=65.83, y=63.00, z=326.83]
+[02:10:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/58066, l='world', x=67.51, y=63.00, z=328.25]
+[02:10:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/58066, l='world', x=67.51, y=63.00, z=328.25]
+[02:11:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/58181, l='world', x=67.76, y=63.00, z=326.93]
+[02:12:21] [Server thread/WARN]: dairelle moved too quickly! 14.485559245236118,-2.126165765012601,11.001599466656558
+[02:17:22] [Server thread/WARN]: Swazztastic moved too quickly! 17.364896918892704,-2.1229390230526235,-2.1894444825143182
+[02:17:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
+[02:18:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63782, l='world', x=66.74, y=63.00, z=326.83]
+[02:18:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63782, l='world', x=66.74, y=63.00, z=326.83]
+[02:18:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63782, l='world', x=66.74, y=63.00, z=326.83]
+[02:22:15] [Server thread/WARN]: Bellanca moved wrongly!
+[02:22:24] [Server thread/WARN]: Swazztastic moved too quickly! 3.61156524462875,3.086094079315515,-8.898791315029712
+[02:24:28] [Server thread/INFO]: Swazztastic fell from a high place
+[02:27:25] [Server thread/WARN]: Swazztastic moved too quickly! 7.351404237848428,-7.643994299918205,15.36155366047609
+[02:27:25] [Server thread/WARN]: Bellanca moved too quickly! 15.08192419131673,-4.942002393916368,-8.21644272200632
+[02:27:25] [Server thread/WARN]: dairelle moved too quickly! -13.965461231119331,-3.504489291501784,10.265157670835663
+[02:27:25] [Server thread/WARN]: john moved too quickly! 16.165246325877355,-6.7531149239997035,0.3247649408350526
+[02:27:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3437ms or 68 ticks behind
+[02:31:29] [Server thread/INFO]: [Swazztastic: Set own game mode to Creative Mode]
+[02:32:28] [Server thread/WARN]: dairelle moved too quickly! 3.5198430763362722,1.2491870787446828,-9.39523725134876
+[02:32:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2596ms or 51 ticks behind
+[02:35:37] [Server thread/INFO]: john lost connection: Disconnected
+[02:35:37] [Server thread/INFO]: john left the game
+[02:37:01] [Server thread/INFO]: Bellanca lost connection: Disconnected
+[02:37:01] [Server thread/INFO]: Bellanca left the game
+[02:37:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/76302, l='world', x=67.33, y=63.00, z=327.28]
+[02:39:10] [Server thread/INFO]: [Swazztastic: Set own game mode to Survival Mode]
+[02:39:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/76704, l='world', x=67.20, y=63.00, z=326.83]
+[02:40:11] [Server thread/INFO]: Swazztastic lost connection: Disconnected
+[02:40:11] [Server thread/INFO]: Swazztastic left the game
+[02:40:26] [Server thread/INFO]: dairelle lost connection: Disconnected
+[02:40:26] [Server thread/INFO]: dairelle left the game
+[03:06:00] [Server thread/INFO]: Stopping the server
+[03:06:00] [Server thread/INFO]: Stopping server
+[03:06:00] [Server thread/INFO]: Saving players
+[03:06:00] [Server thread/INFO]: Saving worlds
+[03:06:00] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[03:06:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:06:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[03:06:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:06:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[03:06:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:06:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:06:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:06:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
